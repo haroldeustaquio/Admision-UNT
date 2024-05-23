@@ -1,0 +1,768 @@
+
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  1
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0001 017766 PEÑA TRUJILLO AMARIS JANICE ROSA           36.618    42.817    79.435                  ESTADISTICA                 SI
+ 0002 009436 ROJAS ESCALON JORGE HERNAN                 26.440    36.701    63.141                  ESTADISTICA                 SI
+ 0003 028467 NARRO ABÓN RODOLFO MANUEL                  29.491    28.528    58.019                  ESTADISTICA                 SI
+ 0004 006499 RAMOS SANCHEZ JANITSA NATALIA VIOLETA      22.370    22.412    44.782                  ESTADISTICA                 SI
+ 0005 002201 OCAS VARGAS NIRKA AKEMI                    18.306     3.028    21.334                  ESTADISTICA                 SI
+
+
+
+ 0001 010791 ALIAGA PRETELL TATIANA YULEISY             40.694    27.527    68.221                  FISICA                      SI
+ 0002 035518 RODRIGUEZ BUSTAMANTE JARED DE JESUS        31.523    22.397    53.920                  FISICA                      SI
+ 0003 019152 GAMARRA AGUIRRE ROSA FLORESMILA            23.377     5.040    28.417                  FISICA                      SI
+
+
+
+ 0001 005815 LEON ESCOBAR LUIS AARON                   111.922   179.461   291.383                  ING.INDUSTRIAL              SI
+ 0002 000897 ZEGARRA LAZARO WILLIAM ARTURO              81.394    62.181   143.575                  ING.INDUSTRIAL              SI
+ 0003 042065 PANTOJA HORNA ANA LUCIA                    75.292    64.243   139.535                  ING.INDUSTRIAL              SI
+ 0004 033855 AMAYA FLORIAN ALEXANDER DAVID              71.216    59.133   130.349                  ING.INDUSTRIAL              NO
+ 0005 002675 LOPEZ YAIPEN DIEGO JAVIER                  57.981    43.828   101.809                  ING.INDUSTRIAL              NO
+ 0006 014802 SAENZ ASCATE EMERSON ADRIANO               56.974    40.780    97.754                  ING.INDUSTRIAL              NO
+ 0007 019025 TORRES RODRIGUEZ EYREN MIHALY              63.076    34.659    97.735                  ING.INDUSTRIAL              NO
+ 0008 037007 RODRIGUEZ LOYOLA WILFREDO JUNIOR           49.847    45.870    95.717                  ING.INDUSTRIAL              NO
+ 0009 034171 CORDERO VILLANUEVA JEANCARLO               60.025    33.638    93.663                  ING.INDUSTRIAL              NO
+ 0010 017976 ALVARADO CESIAS JORGE SEBASTIAN            43.745    47.922    91.667                  ING.INDUSTRIAL              NO
+ 0011 041841 VILCHEZ VASQUEZ NATALY TERESA DE JESUS     50.866    39.764    90.630                  ING.INDUSTRIAL              NO
+ 0012 034595 RODRIGUEZ GARRIDO LUIS EDUARDO             42.720    45.860    88.580                  ING.INDUSTRIAL              NO
+ 0013 049455 GAMARRA GUARNIZ FATIMA ANTONELLA           46.790    41.771    88.561                  ING.INDUSTRIAL              NO
+ 0014 050482 FLORES ROJAS JOSE CARLOS                   16.250    71.330    87.580                  ING.INDUSTRIAL              NO
+ 0015 047122 ALEGRE TABOADA RODRIGO NICOLÁS             59.000    27.522    86.522                  ING.INDUSTRIAL              NO
+ 0016 040251 GONZALES PRETEL ALEJANDRA XIMENA           36.624    47.917    84.541                  ING.INDUSTRIAL              NO
+ 0017 049114 MORALES CHAMORRO ROBERT STIVEN             59.006    25.490    84.496                  ING.INDUSTRIAL              NO
+ 0018 029296 CHAUCA RONCAL GERSON MAIKY                 59.006    25.485    84.491                  ING.INDUSTRIAL              NO
+ 0019 001678 RODRIGUEZ CRUZ FABRIZIO EMERSON NOEL       25.421    58.107    83.528                  ING.INDUSTRIAL              NO
+ 0020 045184 RODRIGUEZ CRUZ CHRISTIAN SEBASTHIAN        30.510    50.975    81.485                  ING.INDUSTRIAL              NO
+ 0021 022466 PANDURO SILVA RICARDO ALONSO               35.587    45.830    81.417                  ING.INDUSTRIAL              NO
+ 0022 002753 HUAMANCHUMO SANCHEZ DAVID JESUS            35.587    45.830    81.417                  ING.INDUSTRIAL              NO
+ 0023 050458 ALVITES MERINO ALVARO FABIAN               37.637    42.817    80.454                  ING.INDUSTRIAL              NO
+ 0024 020382 CABRERA PAREDES JHEYSON DANIEL ELI         49.841    30.580    80.421                  ING.INDUSTRIAL              NO
+ 0025 030611 ZEFERINO ZAVALETA CHRISTY MARISOL          33.567    44.844    78.411                  ING.INDUSTRIAL              NO
+ 0026 016024 PALACIOS NOVOA FRANCO AUGUSTO              47.803    30.555    78.358                  ING.INDUSTRIAL              NO
+ 0027 012101 GOMEZ BALTODANO FABRIZIO FERNANDO          44.752    32.592    77.344                  ING.INDUSTRIAL              NO
+ 0028 039186 GAMBOA LOZANO BRYAN ELTON                  20.320    56.030    76.350                  ING.INDUSTRIAL              NO
+ 0029 008036 JIMENEZ URIBE ANA BELEN                    30.504    44.834    75.338                  ING.INDUSTRIAL              NO
+ 0030 047131 EGUSQUIZA ROJAS MAURO DOMINIK              36.618    37.712    74.330                  ING.INDUSTRIAL              NO
+ 0031 047041 CABRERA CARDENAS JOMAIRA NICOLE            35.605    37.727    73.332                  ING.INDUSTRIAL              NO
+ 0032 022657 LEON DIAZ HOMERO ADRIEL                    43.745    28.538    72.283                  ING.INDUSTRIAL              NO
+ 0033 002689 REYNA HURTADO KARLA STEFANY                45.777    26.501    72.278                  ING.INDUSTRIAL              NO
+ 0034 026947 ROJAS MERCADO ERICK EDUARDO                33.555    38.703    72.258                  ING.INDUSTRIAL              NO
+ 0035 045396 HUAMAN CRUZADO ASTRID DE LOS ANGELES       35.593    35.635    71.228                  ING.INDUSTRIAL              NO
+ 0036 041244 SALAZAR DIAZ RENZO BREZNET ALEXANDER       35.605    33.648    69.253                  ING.INDUSTRIAL              NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  2
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0037 012401 MORENO PULIDO ANGIE LIZBETH                39.675    28.548    68.223                  ING.INDUSTRIAL              NO
+ 0038 030813 REQUEJO QUISPE LUIS CARLOS                 51.885    15.285    67.170                  ING.INDUSTRIAL              NO
+ 0039 022292 CRUZ ZAMBRANO RAUL ALEXANDER               41.707    24.464    66.171                  ING.INDUSTRIAL              NO
+ 0040 001245 SUPO TEJADA DIEGO MITCHELL                 33.561    30.555    64.116                  ING.INDUSTRIAL              NO
+ 0041 039518 RODRIGUEZ SALIRROSAS JOSE MARCO VALENTIN   23.383    39.724    63.107                  ING.INDUSTRIAL              NO
+ 0042 030926 RAYGADA RENGIFO BRYAN DARWIN               24.396    38.708    63.104                  ING.INDUSTRIAL              NO
+ 0043 044079 RAMIREZ DIAZ DANIELLA NICOLLE              48.822    14.264    63.086                  ING.INDUSTRIAL              NO
+ 0044 021701 RODRIGUEZ CALDERON ELIAS MOISES FABRIZIO   46.802    15.295    62.097                  ING.INDUSTRIAL              NO
+ 0045 024278 TINOCO ORTECHO YULEYSA BRIZA PAOLA         21.345    40.740    62.085                  ING.INDUSTRIAL              NO
+ 0046 035932 BARBOZA VASQUEZ CARLOS DANIEL              30.516    30.590    61.106                  ING.INDUSTRIAL              NO
+ 0047 021281 GALARRETA MUÑOZ CLAUDIA ALEXANDRA          28.472    32.607    61.079                  ING.INDUSTRIAL              NO
+ 0048 048995 VARAS GUANILO WALTER JEANPIER              45.765    15.230    60.995                  ING.INDUSTRIAL              NO
+ 0049 036273 LUJAN ROSARIO JAVIER EDUARDO               40.688    19.359    60.047                  ING.INDUSTRIAL              NO
+ 0050 042122 ANTICONA VIDAL STEPHANIE ESTRELLA          30.504    29.524    60.028                  ING.INDUSTRIAL              NO
+ 0051 035187 JARA BLAS LEONARDO MAURICIO                18.300    40.780    59.080                  ING.INDUSTRIAL              NO
+ 0052 021962 CONTRERAS MATARA SEGUNDO FELICIANO         25.427    33.633    59.060                  ING.INDUSTRIAL              NO
+ 0053 025797 UCEDA VASQUEZ DIEGO ALEXANDER              45.777    12.222    57.999                  ING.INDUSTRIAL              NO
+ 0054 013579 NUÑEZ CALDERON AGAMENON PARIS              26.440    30.575    57.015                  ING.INDUSTRIAL              NO
+ 0055 046524 DE LA CRUZ ASCATE ANTHONY DEYVI            20.332    32.607    52.939                  ING.INDUSTRIAL              NO
+ 0056 022215 MARCELIANO VASQUEZ SELENE MERARY           40.694    12.217    52.911                  ING.INDUSTRIAL              NO
+ 0057 051332 CASTAÑEDA SANCHEZ DANIEL AUGUSTO           45.777     7.127    52.904                  ING.INDUSTRIAL              NO
+ 0058 040846 CASTILLO SANCHEZ CLAUDIA MILAGROS          17.269    35.630    52.899                  ING.INDUSTRIAL              NO
+ 0059 042746 GUEVARA GOICOCHEA CESSAR YERAY             27.465    24.469    51.934                  ING.INDUSTRIAL              NO
+ 0060 032558 RODRIGUEZ DIAZ AXEL PIERO                  34.586    17.332    51.918                  ING.INDUSTRIAL              NO
+ 0061 046397 MURGA DE LA CRUZ JERSON JESUS              29.491    22.417    51.908                  ING.INDUSTRIAL              NO
+ 0062 035951 ALIAGA MORI KARLA ANGELINA                 28.478    21.406    49.884                  ING.INDUSTRIAL              NO
+ 0063 024995 GONZALEZ QUISPE PAULO CESAR                43.745     6.116    49.861                  ING.INDUSTRIAL              NO
+ 0064 045965 CONCEPCION BAZAURI LUISA FERNANDA          32.548    16.296    48.844                  ING.INDUSTRIAL              NO
+ 0065 012841 ESCALANTE CHAVEZ YAHAIRA LEONORA           18.300    29.539    47.839                  ING.INDUSTRIAL              NO
+ 0066 025264 REATEGUI CARDENAS DIOGO XANDE              35.599    12.227    47.826                  ING.INDUSTRIAL              NO
+ 0067 001085 MORENO CASTILLO DIEGO ALEXANDER            39.675     8.148    47.823                  ING.INDUSTRIAL              NO
+ 0068 036361 OTINIANO ALVARADO MARIA ANELY              15.243    31.601    46.844                  ING.INDUSTRIAL              NO
+ 0069 005685 LAVADO RIVERA FABRIZIO PAOLO               12.186    34.624    46.810                  ING.INDUSTRIAL              NO
+ 0070 052292 PEREZ CHAVEZ CRISTHIAN ANTONI              -5.125    50.930    45.805                  ING.INDUSTRIAL              NO
+ 0071 047603 LEÓN OJEDA DIEGO FERNANDO                  15.231    30.530    45.761                  ING.INDUSTRIAL              NO
+ 0072 024231 GOMEZ AGUIRRE FRANK JUNIOR                 10.160    33.638    43.798                  ING.INDUSTRIAL              NO
+ 0073 040874 TIZNADO BAZAURI ALEX FABIÁN                18.300    25.475    43.775                  ING.INDUSTRIAL              NO
+ 0074 000709 CASTRO PÉREZ NELLY ALESSANDRA              17.275    26.471    43.746                  ING.INDUSTRIAL              NO
+ 0075 002591 ENRIQUEZ VASQUEZ KARLA JIMENA              25.409    18.293    43.702                  ING.INDUSTRIAL              NO
+ 0076 039119 ROSAS ALVAREZ MAURICIO SEBASTIAN           25.427    17.332    42.759                  ING.INDUSTRIAL              NO
+ 0077 020716 RIMACHI ABANTO JESUS FERNANDO              21.351    21.396    42.747                  ING.INDUSTRIAL              NO
+ 0078 037367 DAVALOS MENDO CHARLES-AUGUSTUS RAFAEL      -0.036    42.772    42.736                  ING.INDUSTRIAL              NO
+ 0079 010578 ACEVEDO VILLENA MATIAS LUIS ALBERTO        20.332    21.396    41.728                  ING.INDUSTRIAL              NO
+ 0080 045835 CABELLOS PEREZ FRANK MATHEW                26.428    15.230    41.658                  ING.INDUSTRIAL              NO
+ 0081 025159 MARIÑOS VILLALOBOS LUCERO NICOL            27.459    12.222    39.681                  ING.INDUSTRIAL              NO
+ 0082 037032 NINAQUISPE SOLES LUIS JAYRO                36.624     2.027    38.651                  ING.INDUSTRIAL              NO
+ 0083 048931 SANCHEZ OBESO CRISTHIAN LUIS DAVID         19.319    18.348    37.667                  ING.INDUSTRIAL              NO
+ 0084 035791 NARVAEZ VASQUEZ NAYELLY LISBETH            26.434    11.166    37.600                  ING.INDUSTRIAL              NO
+ 0085 025625 VELA MANCHAY MARIANA YAMILE                12.204    24.464    36.668                  ING.INDUSTRIAL              NO
+ 0086 001532 NIETO CALDERON MARILIN LIZBETH             27.459     8.143    35.602                  ING.INDUSTRIAL              NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  3
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0087 019279 ARANDA OLIVARES YANCARLO DAVID             28.472     6.101    34.573                  ING.INDUSTRIAL              NO
+ 0088 049794 MIÑANO SANDOVAL CELSO JEAN CARLOS          30.510     4.044    34.554                  ING.INDUSTRIAL              NO
+ 0089 004609 GUERRA BECERRA MARLON EDUARDO              25.409     9.114    34.523                  ING.INDUSTRIAL              NO
+ 0090 037161 FLORES BARRETO JEFFERSON KENEDY             8.116    25.460    33.576                  ING.INDUSTRIAL              NO
+ 0091 021163 CONTRERAS CASTILLO EMERLING ALDAIR         18.294    14.239    32.533                  ING.INDUSTRIAL              NO
+ 0092 023413 SANCHEZ SAAVEDRA LUIS DAVID SEBASTIAN      22.370     8.143    30.513                  ING.INDUSTRIAL              NO
+ 0093 041072 VASQUEZ CHAVEZ ADRIAN GENARO               22.364     7.122    29.486                  ING.INDUSTRIAL              NO
+ 0094 005929 RAMIREZ ALEGRIA DAMARIS KASANDRA           14.218    13.203    27.421                  ING.INDUSTRIAL              NO
+ 0095 029255 ZAVALETA GUTIERREZ EDERSON ANGEL           19.319     7.132    26.451                  ING.INDUSTRIAL              NO
+ 0096 012885 HOYOS ALVARADO DANIELA YHOANNA VALENTINA   17.287     7.137    24.424                  ING.INDUSTRIAL              NO
+ 0097 045239 ESQUERRE ALVARADO LUKAS VALENTINO          16.268     7.117    23.385                  ING.INDUSTRIAL              NO
+ 0098 047215 RODRIGUEZ REBAZA MARIA FERNANDA             6.072    15.235    21.307                  ING.INDUSTRIAL              NO
+ 0099 046635 GOMEZ CALLUPE SERGIO ESTEBAN               15.249     5.090    20.339                  ING.INDUSTRIAL              NO
+ 0100 050948 DEL CASTILLO MESIA BRUNO SEBASTIAN         25.409    -5.170    20.239                  ING.INDUSTRIAL              NO
+ 0101 012944 IMAMURA URIOL KOHAKU GABRIEL               10.160     7.122    17.282                  ING.INDUSTRIAL              NO
+ 0102 035133 ESCALON PORTILLA BIANKA NICOLL             -0.018    14.254    14.236                  ING.INDUSTRIAL              NO
+ 0103 049247 CHAVEZ FLORES ROBERT ANGELO                -5.125    18.293    13.168                  ING.INDUSTRIAL              NO
+ 0104 009483 LIZA LAFORA CLAUDIA DARIANA                18.288    -5.155    13.133                  ING.INDUSTRIAL              NO
+ 0105 011202 MIRANDA VARAS JUAN PABLO                   13.211    -1.031    12.180                  ING.INDUSTRIAL              NO
+ 0106 038402 DE LA CRUZ VILLANUEVA JUDITH ESMERALDA     -0.036    10.130    10.094                  ING.INDUSTRIAL              NO
+ 0107 019374 ARMAS GUANILO ANDREA MILAGROS              20.320   -10.270    10.050                  ING.INDUSTRIAL              NO
+ 0108 027196 RODRIGUEZ RENGIFO JERRY DANIEL             10.148    -2.057     8.091                  ING.INDUSTRIAL              NO
+ 0109 001385 TORRES SOTO VICTOR HUGO                     6.072    -0.065     6.007                  ING.INDUSTRIAL              NO
+ 0110 022328 MAGUIÑA PECHE CRISTOFHER BERTHONY          -6.132    10.160     4.028                  ING.INDUSTRIAL              NO
+ 0111 046802 LAZARO MENDOZA GABY MICAL                   4.046    -2.092     1.954                  ING.INDUSTRIAL              NO
+ 0112 042867 RAMIREZ CHALAN YURIKO DALLANA               2.014    -4.114    -2.100                  ING.INDUSTRIAL              NO
+
+
+
+ 0001 028949 VIDARTE RIOS DANIEL ENRIQUE                51.885    64.238   116.123                  ING.MECANICA                SI
+ 0002 027462 OLIVA RUIZ RENATO SEBASTIAN                49.847    40.780    90.627                  ING.MECANICA                SI
+ 0003 013158 SALINAS SANTIAGO STEFANO ANDRE             48.834    33.648    82.482                  ING.MECANICA                SI
+ 0004 051553 SALAS LUJAN ALEJANDRO SEBASTIAN            32.542    34.639    67.181                  ING.MECANICA                SI
+ 0005 053176 LLICAN GUTIERREZ DIEGO ALONSO              34.580    29.524    64.104                  ING.MECANICA                SI
+ 0006 014082 GAMBOA GRAUS ERICK RODRIGO                 16.268    42.827    59.095                  ING.MECANICA                SI
+ 0007 049528 ZAVALETA GONZALEZ FATIMA NOELIA            38.662    18.348    57.010                  ING.MECANICA                SI
+ 0008 004413 GRADOS GUANILO EMILY MARIA FERNANDA        31.523    19.334    50.857                  ING.MECANICA                NO
+ 0009 032564 VARGAS RIOS JUAN DIEGO                     17.287    24.459    41.746                  ING.MECANICA                NO
+ 0010 035672 VILLANUEVA BASILIO LEONARDO ENRIQUE        17.275    23.433    40.708                  ING.MECANICA                NO
+ 0011 020736 QUINTANA NAZARIO OSCAR ALBERTO             31.529     4.079    35.608                  ING.MECANICA                NO
+ 0012 050808 BECERRA VILCA FABRIZZIO                    32.542    -2.082    30.460                  ING.MECANICA                NO
+ 0013 010085 AQUINO RODRIGUEZ ANTHONY FARID              8.122    16.291    24.413                  ING.MECANICA                NO
+ 0014 052232 AGUINAGA RIOS JOSE ANDRE                    7.109    14.269    21.378                  ING.MECANICA                NO
+ 0015 028289 EFUS EDQUEN JOSE EMANUEL                   14.224    -0.030    14.194                  ING.MECANICA                NO
+ 0016 003348 VASQUEZ VASQUEZ ENRIQUE SEBASTIAN          15.231   -14.344     0.887                  ING.MECANICA                NO
+
+
+
+ 0001 051164 VERGARA RIOS VERI COLOMBA                  45.777    25.480    71.257                  ING.METALURGICA             SI
+ 0002 045417 ROJAS RAMIREZ AYRTON SENNA                 36.618    20.380    56.998                  ING.METALURGICA             SI
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  4
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0003 049125 ABANTO RODRIGUEZ EDGAR ERICK               28.478    20.385    48.863                  ING.METALURGICA             SI
+ 0004 052979 CABRERA RUIZ SEBASTIAN ALESSANDRO          33.567    12.232    45.799                  ING.METALURGICA             SI
+ 0005 032223 CRUZ GONZALES LALESHKA JACQUELINE          -1.037    21.401    20.364                  ING.METALURGICA             SI
+
+
+
+ 0001 000273 ARROYO ZAVALETA DUSTIN FABRICIO            75.286    77.496   152.782                  ING.QUIMICA                 SI
+ 0002 047505 OLMOS CORNELIO DEYBBI JEFERSON             34.586    27.527    62.113                  ING.QUIMICA                 SI
+ 0003 001318 POLO GALVEZ ANA SUGEY                      39.669    22.427    62.096                  ING.QUIMICA                 SI
+ 0004 010076 CRISANTO GARRIDO JOE FABIANO               25.421    29.534    54.955                  ING.QUIMICA                 SI
+ 0005 023623 MAXIMILIANO ACHULLI JUAN CRISTOPHER        30.510    16.291    46.801                  ING.QUIMICA                 SI
+ 0006 023564 ZAVALETA MARIÑOS KARLA  LIZET              44.764     1.011    45.775                  ING.QUIMICA                 SI
+ 0007 026517 IPARRAGUIRRE RODRIGUEZ ANDRE ALEXANDER     29.497     9.164    38.661                  ING.QUIMICA                 SI
+ 0008 012714 CRUZ BENITES KATHERINE NICOLE              25.427    12.227    37.654                  ING.QUIMICA                 NO
+ 0009 036548 CHENG DIOS FRANCO MAURICIO                 31.535     6.111    37.646                  ING.QUIMICA                 NO
+ 0010 008853 TAMARIZ MIMBELA JOSE BENJAMIN              22.370     6.101    28.471                  ING.QUIMICA                 NO
+ 0011 003222 LEON CORTEZ CAMILA ISABEL                  10.142    10.130    20.272                  ING.QUIMICA                 NO
+ 0012 053613 PAZ SALAZAR NAHARA                         -1.037    20.375    19.338                  ING.QUIMICA                 NO
+
+
+
+ 0001 034721 RODRIGUEZ UGAZ CARLOS YENYAMAR             45.783    14.274    60.057                  MATEMATICAS                 SI
+ 0002 038263 PELAEZ PANTA NATHALY ALESSANDRA LUCIANA    32.554    25.485    58.039                  MATEMATICAS                 SI
+ 0003 049505 MARIN ESPINOZA MARTHA SOLANGE              31.535    14.274    45.809                  MATEMATICAS                 SI
+ 0004 014781 RODAS TRUJILLO ADRIEL FRAN MIJAEL           7.109    28.543    35.652                  MATEMATICAS                 SI
+
+
+
+ 0001 021295 CHAVEZ VARGAS JOSE ESTEBAN                 57.987    55.049   113.036                  ZOOTECNIA                   SI
+ 0002 007871 HISBI MENDOZA BRAYAN JAHIR                 38.662    21.411    60.073                  ZOOTECNIA                   SI
+ 0003 045268 CRUZ CONTRERAS KENNEDY JHEAMPIER           30.510    26.486    56.996                  ZOOTECNIA                   SI
+ 0004 047092 RODRIGUEZ DIAZ CRISTOPHER YOLFET           21.345    29.514    50.859                  ZOOTECNIA                   SI
+ 0005 041972 VEGA VILLARRUEL ARIANA STEFANIA            28.478    17.322    45.800                  ZOOTECNIA                   SI
+ 0006 004852 ESPINOZA MARROQUIN CARLOS ALBERTO ENRIQU    6.090    31.606    37.696                  ZOOTECNIA                   SI
+ 0007 035495 ANTICONA SOTO ZIPPORAN ANDREA              27.447     1.972    29.419                  ZOOTECNIA                   SI
+ 0008 009314 TANDAYPAN PEREDA SANTOS MICAIAS            15.249     7.132    22.381                  ZOOTECNIA                   SI
+
+
+
+ 0001 036197 DAVALOS SALIRROSAS DUILIO JORGE LUCIO      46.796    14.264    61.060                  ING.AGRICOLA                SI
+ 0002 021467 CASTILLO LAZARO BRENDA ANTUANET            20.320    40.730    61.050                  ING.AGRICOLA                SI
+ 0003 049046 CARLOS ACOSTA JAMILEYSI PILAR              31.517    16.276    47.793                  ING.AGRICOLA                SI
+ 0004 045288 DAVILA FERNANDEZ JHERIMY VALENTINO JOSUE   18.300    23.443    41.743                  ING.AGRICOLA                SI
+ 0005 022436 PEREZ DE LA CRUZ PABLO JESUS               -0.024    23.433    23.409                  ING.AGRICOLA                SI
+
+
+
+ 0001 022228 AVILA CRIVILLERO JOSE PERSY                79.362    69.333   148.695                  ING.AGROINDUSTRIAL          SI
+ 0002 033905 SALDAÑA BELTRAN ANDRES ALEX                52.898    23.443    76.341                  ING.AGROINDUSTRIAL          SI
+ 0003 050431 LUJAN ASCON ASTRID CAROLINA                40.694    21.401    62.095                  ING.AGROINDUSTRIAL          SI
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  5
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0004 022348 ROMERO BARDALES JUANA JAMALY               37.643    21.406    59.049                  ING.AGROINDUSTRIAL          SI
+ 0005 040951 RIOS BARROS NAYELI BRIYETH                 38.650    20.375    59.025                  ING.AGROINDUSTRIAL          SI
+ 0006 039586 MONTAÑEZ GUERRERO CARLO ANDRE              40.694    13.248    53.942                  ING.AGROINDUSTRIAL          SI
+ 0007 010928 ALVITEZ POLO JANY NICOLE                   30.516    14.269    44.785                  ING.AGROINDUSTRIAL          SI
+ 0008 046687 BOÑON ROCHA ELTHON STEVEN                  28.478     3.023    31.501                  ING.AGROINDUSTRIAL          SI
+ 0009 027659 JIMENEZ GARCIA JEFERSON SMITH              15.243     7.107    22.350                  ING.AGROINDUSTRIAL          NO
+ 0010 033428 QUEZADA MENDOCILLA SUSANA MARILYN          15.249    -1.036    14.213                  ING.AGROINDUSTRIAL          NO
+
+
+
+ 0001 042214 AGREDA RUESTA JOSEPH ANDRE                 63.076    61.165   124.241                  INFORMATICA                 SI
+ 0002 031469 PEÑA DE LA SOTA ADRIANO SEBASTIAN EDGAR    26.434    47.907    74.341                  INFORMATICA                 SI
+ 0003 005952 LOPEZ LOZANO SERGE JIMMY II                38.650    30.570    69.220                  INFORMATICA                 SI
+ 0004 007009 ESPINOZA ACEVEDO JOSE FRANCISCO            51.879     7.112    58.991                  INFORMATICA                 SI
+ 0005 046767 QUISPE ESPINOZA JEAMIR ALEJANDRO           38.656    15.295    53.951                  INFORMATICA                 SI
+ 0006 011031 VALDIVIA SAAVEDRA EDSON DYER               34.574    16.281    50.855                  INFORMATICA                 SI
+ 0007 029361 CASTILLO CABANILLAS JOSE CARLOS            15.249    31.611    46.860                  INFORMATICA                 SI
+ 0008 019317 LEANDRO PAZ KAROL ANDREA                   25.421    20.365    45.786                  INFORMATICA                 NO
+ 0009 047467 SAUCEDO LULICHAC LUIS ANGEL                28.478    10.185    38.663                  INFORMATICA                 NO
+ 0010 041097 SALVADOR VIDAL DAYANNA ANTUANE              7.103    22.422    29.525                  INFORMATICA                 NO
+ 0011 054497 MIRANDA RODRIGUEZ LUCIANA ANTONELLA        14.230    15.285    29.515                  INFORMATICA                 NO
+ 0012 032537 ORDOÑEZ ALAYO VICTOR FABRIZIO              21.351     8.148    29.499                  INFORMATICA                 NO
+ 0013 032326 PADILLA RIOS ORLANDO MANUEL ADRIAN         21.351     6.096    27.447                  INFORMATICA                 NO
+ 0014 000252 ANDRADE RODRIGUEZ IVAN ALEXSANDRO          -3.075     6.086     3.011                  INFORMATICA                 NO
+ 0015 048472 GERMAN ROMERO YERSON ALEXANDER              4.046    -2.082     1.964                  INFORMATICA                 NO
+
+
+
+ 0001 020784 FENCO PASCUAL DULCE MARIA                  33.561    71.370   104.931                  AGRONOMIA                   SI
+ 0002 042463 ZAVALA CHAVARRIA ABRIL ALISSA              35.605    11.201    46.806                  AGRONOMIA                   SI
+ 0003 021767 GARCIA SANCHEZ PATRIK JOSEFERNANDO         19.307    20.340    39.647                  AGRONOMIA                   SI
+ 0004 042395 ZAVALA CHAVARRIA ABRIL SUSANA              17.275    16.271    33.546                  AGRONOMIA                   SI
+ 0005 007662 GIL OJEDA LUISIANA ADAMARIS                15.255    17.322    32.577                  AGRONOMIA                   SI
+ 0006 009888 PRETELL HEREDIA WILLIAM DAVID               9.153     4.069    13.222                  AGRONOMIA                   SI
+
+
+
+ 0001 003334 GUEVARA VALENCIA INGRID MARICEL            79.362    94.828   174.190                  ING.DE SISTEMAS             SI
+ 0002 010636 VERASTEGUI CASTILLO CHRISTIAN EDUARDO      84.445    86.665   171.110                  ING.DE SISTEMAS             SI
+ 0003 035771 ZAVALETA MEGO LUIS DANIEL                  68.165    88.707   156.872                  ING.DE SISTEMAS             SI
+ 0004 009144 ROBLES PEREZ MARTIN ARYAN                  67.146    64.233   131.379                  ING.DE SISTEMAS             SI
+ 0005 024166 MAURICCI BECERRA LEANDRO                   55.955    69.338   125.293                  ING.DE SISTEMAS             SI
+ 0006 027124 CRISOSTOMO TAPIA JOSEPH DUVAN              60.019    59.128   119.147                  ING.DE SISTEMAS             SI
+ 0007 029152 VELARDE PALOMINO OSCAR OMAR                66.133    49.959   116.092                  ING.DE SISTEMAS             NO
+ 0008 023455 SANCHEZ CASTRO GIAMPIERO                   56.974    47.917   104.891                  ING.DE SISTEMAS             NO
+ 0009 021574 FERNANDEZ ESQUERRE IVAN JEREMI             56.968    40.780    97.748                  ING.DE SISTEMAS             NO
+ 0010 042071 MORALES PEÑA GABRIEL ANTONIO               45.777    48.928    94.705                  ING.DE SISTEMAS             NO
+ 0011 032029 GUTIERREZ DIAZ JOSE LUIS                   71.216    23.423    94.639                  ING.DE SISTEMAS             NO
+ 0012 003846 MARIÑOS MORALES LORENZO FABRICIO           32.542    56.060    88.602                  ING.DE SISTEMAS             NO
+ 0013 052689 ALIPIO ALIPIO JEYSSON JOEL                 45.765    40.730    86.495                  ING.DE SISTEMAS             NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  6
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0014 012127 MIÑANO TOLEDO CRISTOPHER ALESSANDRO        47.815    34.659    82.474                  ING.DE SISTEMAS             NO
+ 0015 024409 CALLE ROSALES JUAN ANTHONY                 43.745    37.722    81.467                  ING.DE SISTEMAS             NO
+ 0016 050995 GONZALES CHAVARRIA DANNA MACIEL            35.587    45.830    81.417                  ING.DE SISTEMAS             NO
+ 0017 029181 LOPEZ PESANTES ROSA ARIANA CRISTINA        40.682    36.671    77.353                  ING.DE SISTEMAS             NO
+ 0018 015971 VELASQUEZ DIAZ TAKESHY JESUS               56.968    15.260    72.228                  ING.DE SISTEMAS             NO
+ 0019 049515 VARGAS NOVOA LUCIANA YADHIRA               15.231    56.030    71.261                  ING.DE SISTEMAS             NO
+ 0020 024106 VERA ROMERO LUIS ANGEL                     11.161    58.077    69.238                  ING.DE SISTEMAS             NO
+ 0021 007334 MORALES BENITES CHARLIE                    27.453    40.770    68.223                  ING.DE SISTEMAS             NO
+ 0022 018671 PAREDES MOYA PABLO SEBASTIAN               43.739    20.370    64.109                  ING.DE SISTEMAS             NO
+ 0023 053415 LOZANO URQUIZO JOSEPH NICOLAI              29.497    32.627    62.124                  ING.DE SISTEMAS             NO
+ 0024 032527 AGUILAR ALAYO ALESSIA VIDAMILAGROS         32.542    29.559    62.101                  ING.DE SISTEMAS             NO
+ 0025 042288 BARRANTES JUAREZ PAOLO RAI                 50.866    11.211    62.077                  ING.DE SISTEMAS             NO
+ 0026 004903 TORRES CALLE RICK ROY                      31.523    29.529    61.052                  ING.DE SISTEMAS             NO
+ 0027 012586 CARRUITERO ORTIZ SORAYA DEL PILAR          36.612    22.402    59.014                  ING.DE SISTEMAS             NO
+ 0028 012303 CABALLERO RAMOS AARON PAUL                 37.637    20.385    58.022                  ING.DE SISTEMAS             NO
+ 0029 006528 VILLENA AVALOS WALTER ALVEIRO              30.510    27.507    58.017                  ING.DE SISTEMAS             NO
+ 0030 012434 MOLINA NANFUÑAY JUAN DIEGO                 33.555    24.449    58.004                  ING.DE SISTEMAS             NO
+ 0031 000354 ARCE GONZALEZ JOSE FRANCISCO               15.231    40.730    55.961                  ING.DE SISTEMAS             NO
+ 0032 046435 VERA ROMERO VANESA MARILI                  22.364    31.576    53.940                  ING.DE SISTEMAS             NO
+ 0033 018549 CEPEDA ROSALES RICARDO FELIPE              38.650    15.275    53.925                  ING.DE SISTEMAS             NO
+ 0034 015028 ROSAS PEREZ LUIGGI ANTHONY                 34.580    13.243    47.823                  ING.DE SISTEMAS             NO
+ 0035 007939 DIAZ PINILLOS JOSE GIANFRANCO              25.421    21.391    46.812                  ING.DE SISTEMAS             NO
+ 0036 034399 ABURTO EUSTAQUIO JOSE SNAYDER              33.561    13.228    46.789                  ING.DE SISTEMAS             NO
+ 0037 018836 ARROYO VEGA CARLOS FELIPE                  22.358    24.419    46.777                  ING.DE SISTEMAS             NO
+ 0038 049201 SOLORZANO DE LA CRUZ ANTHONY JESUS         15.249    30.585    45.834                  ING.DE SISTEMAS             NO
+ 0039 031867 RODRIGUEZ RUBIO KAREN MIRELLA               5.053    40.730    45.783                  ING.DE SISTEMAS             NO
+ 0040 026021 RUIZ BUSTAMANTE MAURICE ADRIEN IVAN        29.485    16.276    45.761                  ING.DE SISTEMAS             NO
+ 0041 008949 CHAVEZ PRINCIPE EDSON ANIVAL               26.440    18.343    44.783                  ING.DE SISTEMAS             NO
+ 0042 030379 LLATAS SANTA CRUZ SAUL DAVID               31.529    13.243    44.772                  ING.DE SISTEMAS             NO
+ 0043 015313 CIEZA OLIVOS ALEJANDRO FELIPE              41.707     3.043    44.750                  ING.DE SISTEMAS             NO
+ 0044 051541 RAMIREZ CASTILLO LIZETH ALESSANDRA         17.275    26.496    43.771                  ING.DE SISTEMAS             NO
+ 0045 042579 RODRIGUEZ ULLOA RONALD JUNIOR ADRIANO      24.402    17.322    41.724                  ING.DE SISTEMAS             NO
+ 0046 030473 GAMBOA ULLOA CESAR DANIEL                  23.383    18.318    41.701                  ING.DE SISTEMAS             NO
+ 0047 021647 MENDOCILLA CUSTODIO EDUARDO DANIEL         27.465    13.253    40.718                  ING.DE SISTEMAS             NO
+ 0048 012015 GUTIERREZ RUBIO JAMES BRYAM                26.440    14.264    40.704                  ING.DE SISTEMAS             NO
+ 0049 036581 PALOMINO CUENCA JAIME RICARDO              23.383    16.291    39.674                  ING.DE SISTEMAS             NO
+ 0050 013615 PIZAN FERNANDEZ CRISTIAN RICARDO            4.052    33.643    37.695                  ING.DE SISTEMAS             NO
+ 0051 054271 TARRILLO CABRERA STEEVEN RAUL              26.446    11.201    37.647                  ING.DE SISTEMAS             NO
+ 0052 021445 GONZALEZ RECUENCO DIEGO PAOLO EMANUEL      34.586     3.053    37.639                  ING.DE SISTEMAS             NO
+ 0053 008715 MENDEZ RAMIREZ JERSSON ANTUHAN             33.561     4.039    37.600                  ING.DE SISTEMAS             NO
+ 0054 047886 DIAZ POLO LEONARDO MAURO                   24.402    12.192    36.594                  ING.DE SISTEMAS             NO
+ 0055 034083 CUENCA BLAS MAXIMO JHUNIOR                 27.465     8.148    35.613                  ING.DE SISTEMAS             NO
+ 0056 031786 GUTIERREZ ROSPIGLIOSI DINO SEBASTIAN       33.561     2.027    35.588                  ING.DE SISTEMAS             NO
+ 0057 031843 VASQUEZ CHOTA MARIA FERNANDA               15.231    20.330    35.561                  ING.DE SISTEMAS             NO
+ 0058 019784 VENEROS LOLOY JOHAN FABRIZIO               20.344    13.253    33.597                  ING.DE SISTEMAS             NO
+ 0059 045087 MATTUS ORBEGOSO GABRIEL VALENTINO          34.580    -1.041    33.539                  ING.DE SISTEMAS             NO
+ 0060 048545 JACINTO CRUZ ISSVAN JUAN                   12.186    20.375    32.561                  ING.DE SISTEMAS             NO
+ 0061 039807 LOJE POLO STEVE JEANFRANCO                 14.230    17.332    31.562                  ING.DE SISTEMAS             NO
+ 0062 038546 PALMA HILARIO GUISSEPI GABRIEL             26.440     4.059    30.499                  ING.DE SISTEMAS             NO
+ 0063 025195 GUEVARA MEDRANO LLEINER GONSALO            15.231    15.230    30.461                  ING.DE SISTEMAS             NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  7
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0064 050857 RUIZ TENORIO HUGO MATHIAS                  15.231    15.230    30.461                  ING.DE SISTEMAS             NO
+ 0065 023203 CRUZ ARANDA JHEYSON ALEXANDER              13.217    16.306    29.523                  ING.DE SISTEMAS             NO
+ 0066 008276 PINILLOS AGUILAR LUIGUI ENRIQUE            19.319     9.164    28.483                  ING.DE SISTEMAS             NO
+ 0067 010894 CHIGUALA PELAEZ EMMANUEL                   20.332     8.128    28.460                  ING.DE SISTEMAS             NO
+ 0068 038554 ESCOBAR FERNANDEZ DANIKA TERESA            19.313     9.139    28.452                  ING.DE SISTEMAS             NO
+ 0069 043431 URQUIZO BURGOS JUAN ALFONSO                 4.058    22.422    26.480                  ING.DE SISTEMAS             NO
+ 0070 040742 TORRES RODRIGUEZ IVAN ALESSANDRO            6.084    19.349    25.433                  ING.DE SISTEMAS             NO
+ 0071 004724 ZARATE GUTIERREZ DARWIN                    14.224    11.191    25.415                  ING.DE SISTEMAS             NO
+ 0072 023939 GONZALES LEON JUAN MIGUEL                  17.281     8.128    25.409                  ING.DE SISTEMAS             NO
+ 0073 040332 TACURI VIZCONDE JORDAN JOSUE               35.593   -13.318    22.275                  ING.DE SISTEMAS             NO
+ 0074 011848 AVALOS DELGADO FABRIZIO SEBASTIAN           0.995    20.385    21.380                  ING.DE SISTEMAS             NO
+ 0075 015444 MENDOZA SILVA STEFANO VALENTINO            16.268     5.080    21.348                  ING.DE SISTEMAS             NO
+ 0076 006243 LLENQUE LLENQUE CARLOS MANUEL              11.173     9.169    20.342                  ING.DE SISTEMAS             NO
+ 0077 046932 ALVA ALVAREZ CAMILA LUCIANA                14.230     5.090    19.320                  ING.DE SISTEMAS             NO
+ 0078 030127 RAMIREZ ALVA PIERO                         14.224     1.006    15.230                  ING.DE SISTEMAS             NO
+ 0079 033882 CASTRO BLAS JARLEY WILSON                   8.110     6.096    14.206                  ING.DE SISTEMAS             NO
+ 0080 009506 LOYOLA MIGUEL JOSÉ ANTONIO                 11.161     3.018    14.179                  ING.DE SISTEMAS             NO
+ 0081 028025 ZAVALETA LAZO FLAVIO CESAR                 11.161    -0.070    11.091                  ING.DE SISTEMAS             NO
+ 0082 008871 CAMPOS CESIAS CESAR IVAN                    5.071     5.085    10.156                  ING.DE SISTEMAS             NO
+ 0083 034964 CHANDUVI YSLA MIGUEL ALBERTO              -10.214    20.330    10.116                  ING.DE SISTEMAS             NO
+ 0084 045329 ENCISO ALVITES JOSE LUIS                   -5.125    15.230    10.105                  ING.DE SISTEMAS             NO
+ 0085 020411 AMOROTO PISCONTI DIEGO OSWALDO              6.078    -3.113     2.965                  ING.DE SISTEMAS             NO
+ 0086 051155 SANTI ALEGRE JEFFERSON MARIO                0.000     0.000     0.000                  ING.DE SISTEMAS          AUSENTE
+ 0087 047786 CASTILLO CABRERA CARLOS MOISES             -2.056     2.032    -0.024                  ING.DE SISTEMAS             NO
+ 0088 051539 VERASTEGUI PALOMINO EDWIN ROBERT           10.142   -10.270    -0.128                  ING.DE SISTEMAS             NO
+ 0089 033307 DIAZ PAZ VALENTIN JAVIER                    6.090    -7.147    -1.057                  ING.DE SISTEMAS             NO
+ 0090 027255 TORRES HUAMAN ANAYELI SHIRLEY              -1.025    -4.089    -5.114                  ING.DE SISTEMAS             NO
+
+
+
+ 0001 025069 GARCIA CAMPOS DIANA PATRICIA               49.841    57.096   106.937                  ING.DE MINAS                SI
+ 0002 007953 MELGAREJO MEDINA MAICOL ALEXANDER          59.006    44.864   103.870                  ING.DE MINAS                SI
+ 0003 044463 CASTILLO MENDOCILLA MICHEL FABRICIO        38.650    57.081    95.731                  ING.DE MINAS                SI
+ 0004 012609 CARRANZA RODRIGUEZ ALBERTH FABIAN          65.114    27.522    92.636                  ING.DE MINAS                SI
+ 0005 050986 JHORTON RODRIGUEZ ROY FARID                55.943    25.430    81.373                  ING.DE MINAS                SI
+ 0006 006654 ZAMORA DIAZ SUSAN ALEXANDRA                30.498    40.730    71.228                  ING.DE MINAS                NO
+ 0007 042933 GARRIDO MESTANZA ANTHONY JOSUE             28.478    35.675    64.153                  ING.DE MINAS                NO
+ 0008 021483 CASTILLO LAZARO BRENDA ANABEL              -0.036    56.030    55.994                  ING.DE MINAS                NO
+ 0009 030512 GUTIERREZ COLLAVE WILMER JESUS             20.332    34.644    54.976                  ING.DE MINAS                NO
+ 0010 036842 ABANTO BARRIOS ALEXIS GEANPIERRE           19.313    30.575    49.888                  ING.DE MINAS                NO
+ 0011 012701 LINIAN LOZANO LUIS LENIN                   10.154    34.654    44.808                  ING.DE MINAS                NO
+ 0012 051075 ARRELUCEA CHAMOCHUMBI ALEM JEREMY          25.421    18.328    43.749                  ING.DE MINAS                NO
+ 0013 052773 CRUZADO BUSTAMANTE PIERO ALEXANDRO         38.656     5.090    43.746                  ING.DE MINAS                NO
+ 0014 037463 PUMAYALLI RAVELO IKER MANUEL               14.224    23.428    37.652                  ING.DE MINAS                NO
+ 0015 013602 SALDAÑA ARAUJO RODRIGO ANTONIO             10.142    25.445    35.587                  ING.DE MINAS                NO
+ 0016 010242 RAMIREZ BACA LEONARDO FABIAN               26.434     7.087    33.521                  ING.DE MINAS                NO
+ 0017 018137 CASTILLO ORBEGOSO MANUEL OSWALDO           15.255    17.332    32.587                  ING.DE MINAS                NO
+ 0018 019412 JIMENEZ CALVANAPON ALEXANDER SEBASTIAN      2.002    28.528    30.530                  ING.DE MINAS                NO
+ 0019 031217 RODRIGUEZ PAREDES MATIAS GUSTAVO           14.230    15.285    29.515                  ING.DE MINAS                NO
+ 0020 003049 LEZCANO MONTOYA JESÚS DAVID                18.306    10.190    28.496                  ING.DE MINAS                NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  8
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0021 020922 CORONEL LOZANO JEAN PIER                   15.237    13.198    28.435                  ING.DE MINAS                NO
+ 0022 015678 PRINCIPE HUAMANCHUMO LUIS ALEJANDRO DAVI   15.249    10.185    25.434                  ING.DE MINAS                NO
+ 0023 021752 LAZARO SALDAÑA FISHER ANGEL                19.325     5.095    24.420                  ING.DE MINAS                NO
+ 0024 014278 LEIVA ESQUIVEL MANUELITA MARIA TERESA      12.186    12.197    24.383                  ING.DE MINAS                NO
+ 0025 051353 SANDOVAL RODRIGUEZ GUYSELL LILIBETH        30.510    -7.172    23.338                  ING.DE MINAS                NO
+ 0026 017726 VILLAREAL RUIZ ANDERSON LUIS               17.281     4.069    21.350                  ING.DE MINAS                NO
+ 0027 005211 HERRERA VILLALOBOS CRISTIAN YAREN          19.319     0.996    20.315                  ING.DE MINAS                NO
+ 0028 039846 FLORES YNOÑAN YORDANKY JOSUE               15.243    -1.041    14.202                  ING.DE MINAS                NO
+ 0029 045915 AGUILAR COTRINA KEYLA NORELIS              16.256    -3.123    13.133                  ING.DE MINAS                NO
+ 0030 014052 CARHUAJULCA RUIZ ESTRELLITA ITAMAR          9.135     2.007    11.142                  ING.DE MINAS                NO
+ 0031 030776 VERA MENDOZA ALONDRA MARIANA DE LOS ANGE    5.053     6.051    11.104                  ING.DE MINAS                NO
+ 0032 031315 NICHO TRINIDAD ISRAEL                       5.053    -0.070     4.983                  ING.DE MINAS                NO
+
+
+
+ 0001 031711 RODRIGUEZ CALDERON RICHARD HAROLD          45.783    18.353    64.136                  ING.DE MATERIALES           SI
+ 0002 038286 BENALCAZAR ABANTO DAYANNA ILANYT           37.637    16.306    53.943                  ING.DE MATERIALES           SI
+ 0003 030059 NUÑEZ CORTEGANA MAYLIN                     31.535    19.369    50.904                  ING.DE MATERIALES           SI
+ 0004 043246 TERRONES SANCHEZ CAROLINE VALENTINA        36.624    13.248    49.872                  ING.DE MATERIALES           SI
+ 0005 042655 ROSAS CONTRERAS JOSEPH ANDREW              31.529    13.248    44.777                  ING.DE MATERIALES           SI
+ 0006 037581 RONCAL BUENO RENZO DYLAN FABRIZIO          26.452    12.222    38.674                  ING.DE MATERIALES           SI
+
+
+
+ 0001 011999 BONIFACIO JULIAN ROYER MATTHEW             82.413   122.365   204.778                  ING.MECATRONICA             SI
+ 0002 014937 FLORES MARTOS MAURICIO FABIAN              74.273    87.691   161.964                  ING.MECATRONICA             SI
+ 0003 015231 QUITO CRUZ CESAR JUNIOR                    77.324    73.407   150.731                  ING.MECATRONICA             SI
+ 0004 017967 CHACON NONTOL ERWIN GLEISSNER              73.248    58.097   131.345                  ING.MECATRONICA             SI
+ 0005 007263 PACHERRES CASTAÑEDA JEREMY LEANDRO         46.784    78.472   125.256                  ING.MECATRONICA             SI
+ 0006 005653 LAZO SANCHEZ ENZO FERNANDO                 47.809    62.171   109.980                  ING.MECATRONICA             NO
+ 0007 008323 VALDEZ ESCOBEDO ANGELO KIYOSHI             67.146    33.628   100.774                  ING.MECATRONICA             NO
+ 0008 017295 PEREZ CONTRERAS JEFFERSON DEL PIERO        52.898    45.880    98.778                  ING.MECATRONICA             NO
+ 0009 048837 GIL RIVERO NOAH GABRIEL                    74.273    23.448    97.721                  ING.MECATRONICA             NO
+ 0010 033818 VERGARA AVILA RENATO GABRIEL               39.669    53.012    92.681                  ING.MECATRONICA             NO
+ 0011 012901 VALERA LIZARRAGA FRANCISCO KADIN           55.955    34.649    90.604                  ING.MECATRONICA             NO
+ 0012 014953 CAPRISTAN GONZALES PEDRO JESHUA            46.796    41.796    88.592                  ING.MECATRONICA             NO
+ 0013 031196 MINCHOLA AVALOS RODRIGO GIULIANO           40.688    43.833    84.521                  ING.MECATRONICA             NO
+ 0014 046323 LEDESMA ARAUJO ERICK FRANCIS               52.898    29.564    82.462                  ING.MECATRONICA             NO
+ 0015 038453 CHUQUIVAL GIL RAYDBERG GABRIEL             42.726    38.728    81.454                  ING.MECATRONICA             NO
+ 0016 020991 CHAVEZ MACO SANDRO ZAID                    47.815    33.638    81.453                  ING.MECATRONICA             NO
+ 0017 021848 HILARIO PRINCIPE VICTOR ISSAC              35.587    45.830    81.417                  ING.MECATRONICA             NO
+ 0018 021135 ZAMBRANO SAAVEDRA JEAN ARTURO              36.612    38.723    75.335                  ING.MECATRONICA             NO
+ 0019 014797 RODAS TRUJILLO JADIEL FRAN YAHERLY         42.714    32.577    75.291                  ING.MECATRONICA             NO
+ 0020 022094 ZAVALETA ZAFRA ISAI ALBERTO                40.688    33.633    74.321                  ING.MECATRONICA             NO
+ 0021 011521 SALAZAR REYES WILLIAM ESTEBAN              42.720    30.570    73.290                  ING.MECATRONICA             NO
+ 0022 048698 RODRIGUEZ ZAVALETA ERICK JOSUE             40.688    30.550    71.238                  ING.MECATRONICA             NO
+ 0023 036962 PINO RUIZ PATRICK ALBERT                   42.726    23.443    66.169                  ING.MECATRONICA             NO
+ 0024 024746 SANCHEZ LOJA ANGELO GABRIEL                 9.135    56.065    65.200                  ING.MECATRONICA             NO
+ 0025 040371 JUAREZ FLORES MIRELLA JUANITA              44.758    20.390    65.148                  ING.MECATRONICA             NO
+ 0026 018759 SANCHEZ CHIROQUE CESAR DIEGO               40.688    20.380    61.068                  ING.MECATRONICA             NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  9
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0027 051264 CARDOSO PAREDES KAROLD DAVID NILS          43.733    14.239    57.972                  ING.MECATRONICA             NO
+ 0028 006218 GONZALES GUZMAN JOSE ANTONIO               22.364    32.597    54.961                  ING.MECATRONICA             NO
+ 0029 043389 IPARRAGUIRRE LUIS MIGUEL ANGEL             10.142    40.730    50.872                  ING.MECATRONICA             NO
+ 0030 053772 NUNJA LLUCHO MILAGROS SARIAH               26.434    23.433    49.867                  ING.MECATRONICA             NO
+ 0031 007754 CHACON LAIZA JHAIR ORLANDO                 42.726     7.127    49.853                  ING.MECATRONICA             NO
+ 0032 049598 ESTEVES CESPEDES MIGUEL ANDERSON           20.320    28.493    48.813                  ING.MECATRONICA             NO
+ 0033 011958 REYES YBAÑEZ VICTOR SAUL SEBASTIAN         34.574    12.202    46.776                  ING.MECATRONICA             NO
+ 0034 013803 RODRIGUEZ URBANO MARCO ANTONIO             50.854    -4.139    46.715                  ING.MECATRONICA             NO
+ 0035 026708 CHAVEZ MARRUFO NATALY JUANITA              18.294    25.455    43.749                  ING.MECATRONICA             NO
+ 0036 006308 SAAVEDRA BALDERA JUAN CARLOS               38.656     4.064    42.720                  ING.MECATRONICA             NO
+ 0037 011985 CALDERON CHAVEZ LILIA MEILING              16.256    26.456    42.712                  ING.MECATRONICA             NO
+ 0038 012536 CARRASCO SANCHEZ ALEXANDRO XAVIER          45.765    -5.170    40.595                  ING.MECATRONICA             NO
+ 0039 007633 SILVERA CURI PIERO STIBEN                  34.574     5.050    39.624                  ING.MECATRONICA             NO
+ 0040 001614 GIL CABANILLAS FABRICIO RONALDO            18.294    19.349    37.643                  ING.MECATRONICA             NO
+ 0041 001684 VILCHEZ AVILA BRYAN                        23.389    12.202    35.591                  ING.MECATRONICA             NO
+ 0042 019327 BENAVIDES RODRIGUEZ DIEGO ALESSANDRO       39.669    -4.094    35.575                  ING.MECATRONICA             NO
+ 0043 026646 MATSUO GUSHI CARLOS HIDEKI                 27.465     7.132    34.597                  ING.MECATRONICA             NO
+ 0044 013173 CAPRISTAN DE LA CRUZ JOSE ALEXANDER         7.109    26.496    33.605                  ING.MECATRONICA             NO
+ 0045 014912 BRAVO ZAPATA RODRIGO NICOLAS SANTIAGO      10.142    21.351    31.493                  ING.MECATRONICA             NO
+ 0046 005834 MIGUEL VARGAS LUIS DIEGO                   21.345     7.102    28.447                  ING.MECATRONICA             NO
+ 0047 041309 RUIZ UCEDA TONHY BECKANN                   24.408     3.048    27.456                  ING.MECATRONICA             NO
+ 0048 030853 MONTENEGRO CURINAMBE YHOJAAN               19.307     6.061    25.368                  ING.MECATRONICA             NO
+ 0049 007625 GIL OJEDA FRANCHESCO EMILIANO              11.173    13.228    24.401                  ING.MECATRONICA             NO
+ 0050 020027 NEYRA RAMOS CLEYSON JHUNIOR                 8.134    12.222    20.356                  ING.MECATRONICA             NO
+ 0051 039737 FLORES HARO JONATHAN ALEXANDER              9.141     3.043    12.184                  ING.MECATRONICA             NO
+
+
+
+ 0001 043212 VALUIS FLORES DIOGO LEONEL                 64.095    33.623    97.718                  ING.AMBIENTAL               SI
+ 0002 008105 CELIS GOICOCHEA DANIELLA FERNANDA GISSEL   64.095    26.491    90.586                  ING.AMBIENTAL               SI
+ 0003 022372 LAZARO VARE RULDI STIVEN                   53.917    33.628    87.545                  ING.AMBIENTAL               SI
+ 0004 029101 DOMINGUEZ SAUCEDO LIBNY MARICIELO          40.682    38.713    79.395                  ING.AMBIENTAL               SI
+ 0005 008797 BARDALES LOPEZ FABIANA VALENTINA           43.739    19.334    63.073                  ING.AMBIENTAL               NO
+ 0006 008692 GAMBOA CUIBIN ISAI BELEN                   27.465    33.638    61.103                  ING.AMBIENTAL               NO
+ 0007 018078 VERASTEGUI VILLANUEVA MARIANA              26.440    33.643    60.083                  ING.AMBIENTAL               NO
+ 0008 028121 CARDENAS MALCA YAHAIRA ANTONELLA           28.478    27.527    56.005                  ING.AMBIENTAL               NO
+ 0009 020668 MERCADO ACOSTA JULIO ALONSO                28.478    23.433    51.911                  ING.AMBIENTAL               NO
+ 0010 047397 AVALO ORTIZ HUMBERTO SEBASTIAN             15.231    20.330    35.561                  ING.AMBIENTAL               NO
+ 0011 039142 RAYMUNDO BRAVO MARIA VALENTINA             -2.062    15.270    13.208                  ING.AMBIENTAL               NO
+ 0012 002889 TORRES ALVITES JOEY MAISLER                -5.125   -24.549   -29.674                  ING.AMBIENTAL               NO
+
+
+
+ 0001 038821 BLAS YBAÑEZ DAVID ANDRE                   102.763   110.118   212.881                  ING.CIVIL                   SI
+ 0002 005017 CARRUITERO ASPIROS YRMA LUCERO             81.394    82.591   163.985                  ING.CIVIL                   SI
+ 0003 020878 ALDORADIN BUSTAMANTE JOHAN FABIAN          77.318    80.524   157.842                  ING.CIVIL                   SI
+ 0004 027615 PALMA SANDOVAL JUAN HENRRY                 82.413    73.417   155.830                  ING.CIVIL                   NO
+ 0005 025706 ROSAS ALFARO JENYFFER                      66.127    87.686   153.813                  ING.CIVIL                   NO
+ 0006 040322 PEREZ PROAÑO FABRIZZIO JESUS               77.324    66.275   143.599                  ING.CIVIL                   NO
+ 0007 008486 CAVERO HERRERA HAZIEL EDU                  55.943    70.319   126.262                  ING.CIVIL                   NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag. 10
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0008 002547 LIZARZABURU URBINA RENZO RAFAEL            45.771    69.323   115.094                  ING.CIVIL                   NO
+ 0009 025642 PAUCAR GUERRA JUNIOR RAFAEL                72.241    31.611   103.852                  ING.CIVIL                   NO
+ 0010 000913 RENGIFO GARCIA HENRY ESTEBAN               45.765    56.030   101.795                  ING.CIVIL                   NO
+ 0011 016353 OCAS ALBAN ADRIANO ANDREE                  34.580    63.197    97.777                  ING.CIVIL                   NO
+ 0012 015587 CORNETERO DIAZ LUIS ALEXANDER              72.235    22.427    94.662                  ING.CIVIL                   NO
+ 0013 046013 AMAYA BAZAN JULIO ANDERSON                 59.006    34.644    93.650                  ING.CIVIL                   NO
+ 0014 020882 HONORES SANCHEZ CESAR ANDRE                47.815    44.864    92.679                  ING.CIVIL                   NO
+ 0015 019386 LLONTOP JIBAJA RODRIGO ALBERTO             30.510    61.160    91.670                  ING.CIVIL                   NO
+ 0016 045551 SALDAÑA OBLITAS EKAR KERRY                 40.682    50.950    91.632                  ING.CIVIL                   NO
+ 0017 052596 COBEÑAS VILCHEZ PABLO ARTURO               27.447    61.150    88.597                  ING.CIVIL                   NO
+ 0018 046501 BARRANTES NUÑEZ JOSE LUIS                  41.707    45.880    87.587                  ING.CIVIL                   NO
+ 0019 016283 ALAYO SIFUENTES DALERY NICOLL              44.758    38.728    83.486                  ING.CIVIL                   NO
+ 0020 032787 RIVERA DE LA CRUZ STEVEN EDUARDO           37.643    44.859    82.502                  ING.CIVIL                   NO
+ 0021 023802 CARDENAS ARGOMEDO BLEDIS AMED              59.006    23.448    82.454                  ING.CIVIL                   NO
+ 0022 049638 CASTILLO ANGULO ALEXANDER AMERICO          56.968    24.454    81.422                  ING.CIVIL                   NO
+ 0023 054641 MOSTACERO TIZNADO TELMO YAMPIER            40.688    39.764    80.452                  ING.CIVIL                   NO
+ 0024 023923 MUÑOZ PARIATANTA BREYSLIN NIVARDO          36.606    40.730    77.336                  ING.CIVIL                   NO
+ 0025 041115 LLANOS MEJIA RUT ANGELA                    43.739    29.549    73.288                  ING.CIVIL                   NO
+ 0026 013118 NAMAY VILCHEZ VICTOR HUGO                  56.968    16.316    73.284                  ING.CIVIL                   NO
+ 0027 010946 ACEVEDO VILLENA DYLAN EDDY ALBERTO         49.847    23.428    73.275                  ING.CIVIL                   NO
+ 0028 042524 REYES URRUNAGA FRANCO ALEXANDER            28.478    43.838    72.316                  ING.CIVIL                   NO
+ 0029 010195 RAMIREZ SANCHEZ LUIS FERNANDO              34.586    37.722    72.308                  ING.CIVIL                   NO
+ 0030 017588 SOLON SEGURA MIGUEL ANGEL                  30.504    41.766    72.270                  ING.CIVIL                   NO
+ 0031 034606 DE LA CRUZ SAAVEDRA JEFFERSON DANIEL       36.624    34.659    71.283                  ING.CIVIL                   NO
+ 0032 030423 SALIRROSAS GUTIERREZ WILLIAM ALEXANDER     39.669    30.585    70.254                  ING.CIVIL                   NO
+ 0033 012994 TOLEDO FUTEMMA JOSEPH AMIR                 26.434    43.798    70.232                  ING.CIVIL                   NO
+ 0034 051907 REYES PAREDES PAULA FERNANDA               36.612    32.602    69.214                  ING.CIVIL                   NO
+ 0035 019546 RODRIGUEZ GARCIA JAMIL EDU                 29.491    37.702    67.193                  ING.CIVIL                   NO
+ 0036 050132 MACALOPU MANRIQUE MELISA BRILLY            28.466    38.703    67.169                  ING.CIVIL                   NO
+ 0037 027754 CACERES LEON MARIA DEL CIELO               41.707    24.454    66.161                  ING.CIVIL                   NO
+ 0038 028924 PARIMANGO BAZAN ALEX DEIVI                 40.688    25.470    66.158                  ING.CIVIL                   NO
+ 0039 020078 LINARES GUEVARA WILI AXEL                  56.968     8.118    65.086                  ING.CIVIL                   NO
+ 0040 034537 VELASQUEZ ALVITES DARIANA MAILEN           40.694    21.411    62.105                  ING.CIVIL                   NO
+ 0041 011549 ARAUJO DIAZ ADRIANO JOSUE                  34.574    27.497    62.071                  ING.CIVIL                   NO
+ 0042 012525 CEDRON CHAVEZ JOSE CARLOS                  35.605    25.490    61.095                  ING.CIVIL                   NO
+ 0043 032511 MURRUGARRA PEREDA ANTHONY JOSUE            21.345    39.729    61.074                  ING.CIVIL                   NO
+ 0044 017473 QUEVEDO GUEVARA ADRIANA NICOLE             19.307    41.761    61.068                  ING.CIVIL                   NO
+ 0045 031043 PUENTE CAIPO KATHERINE MARIZA              20.320    40.730    61.050                  ING.CIVIL                   NO
+ 0046 037336 MALCA ALARCON LUIS GUSTAVO                 37.631    22.397    60.028                  ING.CIVIL                   NO
+ 0047 020309 LUNA VICTORIA RAMOS GUSTAVO MIGUEL         33.567    25.490    59.057                  ING.CIVIL                   NO
+ 0048 041875 SILVA GARCIA CARLOS ENRIQUE                38.662    17.332    55.994                  ING.CIVIL                   NO
+ 0049 051934 AGUILAR QUISPE SANTIAGO ARTURO             15.231    40.730    55.961                  ING.CIVIL                   NO
+ 0050 051822 OLIVARES SOLORZANO YOVER ADAN              45.765    10.130    55.895                  ING.CIVIL                   NO
+ 0051 037494 REGALADO URIARTE DANIEL LIZARDO            28.478    26.506    54.984                  ING.CIVIL                   NO
+ 0052 020753 RABINES MELENDEZ ROLANDO ENRIQUE           22.358    32.572    54.930                  ING.CIVIL                   NO
+ 0053 051732 AZABACHE ARENAS JOSEPH EDUARDO             35.593    18.338    53.931                  ING.CIVIL                   NO
+ 0054 004063 UGAS SALDAÑA CRISTIAN MEIER                29.491    23.443    52.934                  ING.CIVIL                   NO
+ 0055 015643 ZAPATA RUBIO JESUS ARON                    25.415    27.492    52.907                  ING.CIVIL                   NO
+ 0056 025817 CASTILLO POMPA ABIGAYL EVELYN              27.447    25.430    52.877                  ING.CIVIL                   NO
+ 0057 031265 CASOS VALENCIA ANDREA FERNANDA             20.332    31.591    51.923                  ING.CIVIL                   NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag. 11
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0058 001102 MORENO CASTILLO RODRIGO ALEXANDER          33.567    18.343    51.910                  ING.CIVIL                   NO
+ 0059 051917 VILLANUEVA VASQUEZ MARIA FATIMA            16.268    34.644    50.912                  ING.CIVIL                   NO
+ 0060 042343 MUDARRA QUILICHE AXEL VICENTICO            36.612    14.254    50.866                  ING.CIVIL                   NO
+ 0061 005285 LINARES MORALES ANTHONNY BRUCE             20.320    30.530    50.850                  ING.CIVIL                   NO
+ 0062 008364 RUIZ AMAYA ALBERTO JULIO                   28.472    20.365    48.837                  ING.CIVIL                   NO
+ 0063 047082 MARTINEZ CHACON EMANUEL CRISTIAN           42.720     6.086    48.806                  ING.CIVIL                   NO
+ 0064 040767 CUEVA CASTAÑEDA ALEJANDRO SEBASTIAN        23.395    24.469    47.864                  ING.CIVIL                   NO
+ 0065 013286 AMAYA PADILLA CARLOS JESUPH                33.567    14.259    47.826                  ING.CIVIL                   NO
+ 0066 046904 GUEVARA TENORIO YANELI                     30.504    15.265    45.769                  ING.CIVIL                   NO
+ 0067 030077 RAMIREZ OLIVARES YORY MAYGU                20.320    25.430    45.750                  ING.CIVIL                   NO
+ 0068 053676 BALCAZAR VALVERDE JORGE MAX                25.409    20.330    45.739                  ING.CIVIL                   NO
+ 0069 046973 SANDOVAL ESPINOZA ANDREA DANALUZ           20.332    23.433    43.765                  ING.CIVIL                   NO
+ 0070 046088 TIRADO PARIHUAMAN JACK TAYLER              18.300    24.464    42.764                  ING.CIVIL                   NO
+ 0071 021724 GONZALES MENDEZ HEYSSEN JHOSEMYR           23.383    19.349    42.732                  ING.CIVIL                   NO
+ 0072 049184 TORRES MAS ALDO SEBASTIAN                  23.383    18.333    41.716                  ING.CIVIL                   NO
+ 0073 034746 VASQUEZ CANO ELENA NICOLE                  -5.125    45.830    40.705                  ING.CIVIL                   NO
+ 0074 042228 RAMIREZ JIMENEZ LUIS ENRIQUE               17.275    23.428    40.703                  ING.CIVIL                   NO
+ 0075 007688 BECERRA GUERRERO LEYTHON JAVIER            11.167    29.534    40.701                  ING.CIVIL                   NO
+ 0076 046453 REYES REYES LUIS MIGUEL                    28.472    10.180    38.652                  ING.CIVIL                   NO
+ 0077 048743 ACUÑA ROJAS JULIO ABEL                     28.478    10.165    38.643                  ING.CIVIL                   NO
+ 0078 053193 ESPINAL TOLEDO FABRICIO SEBASTIAN          17.281    19.359    36.640                  ING.CIVIL                   NO
+ 0079 002861 CHUGNAS CURINAMBE SHIRLEY                  13.199    23.398    36.597                  ING.CIVIL                   NO
+ 0080 012392 VARGAS CRUZ MARIO ENMANUELLE                7.103    28.533    35.636                  ING.CIVIL                   NO
+ 0081 046487 LAUREANO PAREDES HECTOR DAVID              10.142    25.435    35.577                  ING.CIVIL                   NO
+ 0082 036884 CHUAN VALLEJOS CESAR AUGUSTO               33.555     1.977    35.532                  ING.CIVIL                   NO
+ 0083 044415 SALVATIERRA INFANTES ANGIE LUCIA           27.459     7.127    34.586                  ING.CIVIL                   NO
+ 0084 036559 SALDAÑA GONZALES YOSEF ALEXANDER           24.402    10.180    34.582                  ING.CIVIL                   NO
+ 0085 046661 SUN CHOLAN TAMARA KRISTHELL                28.478     5.080    33.558                  ING.CIVIL                   NO
+ 0086 046853 RODRIGUEZ ROMERO HECTOR FABRICIO           14.224    18.308    32.532                  ING.CIVIL                   NO
+ 0087 020894 CERNA CASTRO GIANFRANCO GADIEL             10.160    21.411    31.571                  ING.CIVIL                   NO
+ 0088 002293 SALDAÑA GARCIA JORGE LUIS                   0.983    30.530    31.513                  ING.CIVIL                   NO
+ 0089 009402 RAFAEL VASQUEZ MARIA ELENA                 20.332    10.180    30.512                  ING.CIVIL                   NO
+ 0090 035178 NAVARRO PEÑA PEDRO MIGUEL                  25.409     5.030    30.439                  ING.CIVIL                   NO
+ 0091 014922 VILCHEZ ARANA JOAQUIN ALESSANDRO           10.154    19.344    29.498                  ING.CIVIL                   NO
+ 0092 053051 CRUZ JARA VICTORIA NICOLLE                  6.072    21.356    27.428                  ING.CIVIL                   NO
+ 0093 019917 NARVAEZ COLMENARES FLAVIA ARIADNE           2.014    24.444    26.458                  ING.CIVIL                   NO
+ 0094 053953 MARCHENA CAPRISTAN KATHERINE DE LOS ANGE   11.173    15.265    26.438                  ING.CIVIL                   NO
+ 0095 001476 PINGLO COLLAZOS JOSE MARIA                 28.472    -2.052    26.420                  ING.CIVIL                   NO
+ 0096 045847 BURGOS ARTEAGA HEBERT RAMIRO               16.262     9.164    25.426                  ING.CIVIL                   NO
+ 0097 049709 FUENTES CAMPOS ANDERSON ORLANDO GONZALO    28.472    -4.119    24.353                  ING.CIVIL                   NO
+ 0098 023254 GOMERO BRONCANO RIUSO RIVALDO              19.313     3.018    22.331                  ING.CIVIL                   NO
+ 0099 041508 TAPIA MENDOZA RONALD KIBSON                 6.084    15.280    21.364                  ING.CIVIL                   NO
+ 0100 008765 ARAUJO RODRIGUEZ KEVIN ANTHONY             16.256     5.080    21.336                  ING.CIVIL                   NO
+ 0101 041382 POEMAPE ZAPATA JUANITA MERCEDES            20.320    -0.070    20.250                  ING.CIVIL                   NO
+ 0102 038197 REYES CORCUERA ARACELY OLENKA              19.325    -1.036    18.289                  ING.CIVIL                   NO
+ 0103 019805 PEREZ MARINO CESAR MANUEL                   3.033    14.249    17.282                  ING.CIVIL                   NO
+ 0104 038313 CORONADO DELGADO ALEX NELSON               25.409    -8.228    17.181                  ING.CIVIL                   NO
+ 0105 046256 ACUÑA EUGENIO RODRIGO                       4.046    10.165    14.211                  ING.CIVIL                   NO
+ 0106 020703 CARRANZA RAMOS DEYVID NICOLAS              11.173     3.038    14.211                  ING.CIVIL                   NO
+ 0107 025104 REYES MOYA CARLOS MANUEL                   12.192     0.976    13.168                  ING.CIVIL                   NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag. 12
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0108 038659 DE LA CRUZ RUIZ SARAI ELENA                 5.065     5.075    10.140                  ING.CIVIL                   NO
+ 0109 041779 AGUILAR SANCHEZ AMMY DAMARYS               15.237    -5.135    10.102                  ING.CIVIL                   NO
+ 0110 048679 TORRES CARBAJAL AARAON JUAN DAVID          -0.036    10.130    10.094                  ING.CIVIL                   NO
+ 0111 012114 SALVADOR MIÑANO JHONNELL ALEJANDRO         -1.037    10.175     9.138                  ING.CIVIL                   NO
+ 0112 027696 BLAS CHAVARRIA RENZO SAMUEL                 4.058     4.074     8.132                  ING.CIVIL                   NO
+ 0113 017872 TORRES FAJARDO RYAN ANDRE                  -2.068     7.102     5.034                  ING.CIVIL                   NO
+ 0114 011045 MARRUFO CASAHUAMAN DANNFER GEREMMY         -0.036     5.030     4.994                  ING.CIVIL                   NO
+ 0115 049533 ROBLES MESA LIMBER YONADIR                  6.078    -2.052     4.026                  ING.CIVIL                   NO
+ 0116 026483 BARRANTES OCAMPO OSCAR ALESSANDRO           0.000     0.000     0.000                  ING.CIVIL                AUSENTE
+ 0117 040044 FARFAN CARDENAS CHERYL STEPHANY             0.000     0.000     0.000                  ING.CIVIL                AUSENTE
+
+
+
+ 0001 004528 ALCANTARA CHAVEZ ROMINA ALEJANDRA          51.873   116.224   168.097                  ARQUITECTURA y URB          SI
+ 0002 009069 GOICOCHEA RONCAL NICOLE ANTONELA           66.133    62.196   128.329                  ARQUITECTURA y URB          SI
+ 0003 054015 LLONTOP LLONTOP JHERSON DAVID              69.178    53.017   122.195                  ARQUITECTURA y URB          SI
+ 0004 031895 ATOCHE SILVA MIGUEL ANGEL                  62.057    54.033   116.090                  ARQUITECTURA y URB          NO
+ 0005 007102 BARDALES ZURITA AYLEEN KARELY              41.695    66.230   107.925                  ARQUITECTURA y URB          NO
+ 0006 005767 ROBLES CORDOVA DANIELA                     71.222    35.690   106.912                  ARQUITECTURA y URB          NO
+ 0007 013104 ALCANTARA HUARIPATA ROSA ANGELICA          74.273    24.469    98.742                  ARQUITECTURA y URB          NO
+ 0008 005247 PAZ MIRANDA DARVIS DAVID                   52.898    41.801    94.699                  ARQUITECTURA y URB          NO
+ 0009 032722 PAIRAZAMAN RAMIREZ ENRIQUE GABRIEL         62.057    32.627    94.684                  ARQUITECTURA y URB          NO
+ 0010 010403 ASMAT CENTENO AARON MARCELO                61.038    31.586    92.624                  ARQUITECTURA y URB          NO
+ 0011 034838 GALVEZ RODAS JOHANY SAJHURY                50.866    38.738    89.604                  ARQUITECTURA y URB          NO
+ 0012 033565 TALAVERA ORDONIO XIOMARA ALEXANDRA LUCIA   50.866    38.738    89.604                  ARQUITECTURA y URB          NO
+ 0013 010741 TOMAS SALINAS KEVIN STEVEN                 61.044    28.538    89.582                  ARQUITECTURA y URB          NO
+ 0014 021189 AYRES MARTOS ARIANA FABIOLA                25.415    60.124    85.539                  ARQUITECTURA y URB          NO
+ 0015 003875 MENDEZ CARRASCO EDGAR MARCELO              55.943    26.451    82.394                  ARQUITECTURA y URB          NO
+ 0016 025244 SANCHEZ LAZARO KAROLY DAYANA               49.847    28.543    78.390                  ARQUITECTURA y URB          NO
+ 0017 047659 MORENO VARAS MARIEL ESTEFANIA              56.974    21.396    78.370                  ARQUITECTURA y URB          NO
+ 0018 033415 VALDERRAMA ASMAT JUAN ESTEBAN              51.885    25.485    77.370                  ARQUITECTURA y URB          NO
+ 0019 054542 FERRE CUEVA ANGELA ESPERANZA               36.612    38.713    75.325                  ARQUITECTURA y URB          NO
+ 0020 039619 HUAMAN GUEVARA DEYVI JHAIR                 36.612    37.702    74.314                  ARQUITECTURA y URB          NO
+ 0021 003596 ARROYO RODRIGUEZ SASHA CAMILA              40.688    31.591    72.279                  ARQUITECTURA y URB          NO
+ 0022 017345 ORDOÑEZ MARREROS ALEXANDRA FERNANDA        43.739    28.533    72.272                  ARQUITECTURA y URB          NO
+ 0023 029553 ACOSTA CHAVEZ VALERIA ISABEL               37.637    31.596    69.233                  ARQUITECTURA y URB          NO
+ 0024 022475 ROSAS GARCIA CLEDER DANIEL                 32.542    35.680    68.222                  ARQUITECTURA y URB          NO
+ 0025 035415 FLORES ESTRADA JULIO GILMAR                28.472    35.650    64.122                  ARQUITECTURA y URB          NO
+ 0026 004377 CHILCON HURTADO JOHANNA ABIGAIL            13.199    42.782    55.981                  ARQUITECTURA y URB          NO
+ 0027 000933 DIAZ DIAZ CHRISTIAN JEAN PHIERO            38.650    17.312    55.962                  ARQUITECTURA y URB          NO
+ 0028 003824 SALDAÑA ARMAS MARIANA VANESSA              30.504    23.408    53.912                  ARQUITECTURA y URB          NO
+ 0029 024594 REYES GONZALES ROXANA MAZIEL EDUARDA       32.548    20.380    52.928                  ARQUITECTURA y URB          NO
+ 0030 006884 GUZMAN ARRIBASPLATA CRISTHIAN MIGUEL       30.504    22.397    52.901                  ARQUITECTURA y URB          NO
+ 0031 046823 MENDOZA PISFIL WALTER DANIEL               30.510    21.411    51.921                  ARQUITECTURA y URB          NO
+ 0032 024573 SANCHEZ DELGADO JOHANA ROSAURA             19.313    32.592    51.905                  ARQUITECTURA y URB          NO
+ 0033 007977 NIZAMA SANCHEZ ANA BELEN                   42.726     9.169    51.895                  ARQUITECTURA y URB          NO
+ 0034 004933 ASMAT PECHON BRISSA FERNANDA               33.573    17.332    50.905                  ARQUITECTURA y URB          NO
+ 0035 004199 SANCHEZ INCHAUSTEGUI MARIELENA DE LOS AN   25.409    25.430    50.839                  ARQUITECTURA y URB          NO
+ 0036 002601 MORENO ALIPIO ARIANA CAMILA                45.771     5.055    50.826                  ARQUITECTURA y URB          NO
+ 0037 029118 GUEVARA RODRIGUEZ MARJORIT ARLETTE         34.580    15.290    49.870                  ARQUITECTURA y URB          NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag. 13
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0038 031153 MESTANZA CRUZADO CHRISTIAN JOSE DAVID      28.478    19.369    47.847                  ARQUITECTURA y URB          NO
+ 0039 011561 CRUZADO AVALOS LESLY JAZMIN                45.783     1.016    46.799                  ARQUITECTURA y URB          NO
+ 0040 036788 PICHEN CHUQUIRUNA CIELO SOFIA              38.656     8.138    46.794                  ARQUITECTURA y URB          NO
+ 0041 041813 RUIZ SANCHEZ HAROLD                        40.688     6.096    46.784                  ARQUITECTURA y URB          NO
+ 0042 047619 AGUILAR ZAPATA GRACYA DAYANNA              15.243    29.564    44.807                  ARQUITECTURA y URB          NO
+ 0043 044705 ZAVALETA GERONIMO PAMELA VALERIA           26.452    18.353    44.805                  ARQUITECTURA y URB          NO
+ 0044 024832 SALDAÑA GOICOCHEA YNDIRA DANIELA           25.421    19.349    44.770                  ARQUITECTURA y URB          NO
+ 0045 013396 VASQUEZ RUIZ FERNANDA CAMILA               37.637     7.117    44.754                  ARQUITECTURA y URB          NO
+ 0046 042193 PEÑA TENORIO BIBIANA MIREYA                33.567    10.170    43.737                  ARQUITECTURA y URB          NO
+ 0047 016495 DIAZ RAMIREZ JOHNNY DAYSON                 12.192    30.580    42.772                  ARQUITECTURA y URB          NO
+ 0048 034859 LAZARO FERNANDEZ EMERSON MAURICIO          25.427    17.327    42.754                  ARQUITECTURA y URB          NO
+ 0049 048628 MEDINA CRUZ ELIANA ESMERALDA               31.529    11.201    42.730                  ARQUITECTURA y URB          NO
+ 0050 018485 NAVARRO GARCIA NOELIA ESMERALDA            28.484    13.253    41.737                  ARQUITECTURA y URB          NO
+ 0051 016663 VILLANUEVA MONCADA BRISA CAROLA            34.580     6.091    40.671                  ARQUITECTURA y URB          NO
+ 0052 049267 DELGADO RIOS FABIANA FERNANDA              18.294    21.386    39.680                  ARQUITECTURA y URB          NO
+ 0053 021624 GAMARRA CHILON JENNIFER ROCIO               6.078    32.612    38.690                  ARQUITECTURA y URB          NO
+ 0054 043969 ALTAMIRANO CRUZ GIRSSELY TATIANA           28.478    10.180    38.658                  ARQUITECTURA y URB          NO
+ 0055 039355 RAMIREZ YUPANQUI JOSUE ANDERSON            11.167    26.471    37.638                  ARQUITECTURA y URB          NO
+ 0056 019216 TARRILLO MONROY ASTRID BRENDA              32.542     4.064    36.606                  ARQUITECTURA y URB          NO
+ 0057 027261 ARCAYA VINCES ASTRID LISBETH               35.593     0.981    36.574                  ARQUITECTURA y URB          NO
+ 0058 022954 ARAUJO RUDAS ALISON DAIANNA                17.287    18.348    35.635                  ARQUITECTURA y URB          NO
+ 0059 027184 RAMOS AGUILAR MARIANELA                    16.268    19.364    35.632                  ARQUITECTURA y URB          NO
+ 0060 026044 PELAEZ HORNA FABIANA VICTORIA              13.211    22.412    35.623                  ARQUITECTURA y URB          NO
+ 0061 046676 SALDAÑA LEON BRYAN NILO                    25.415    10.180    35.595                  ARQUITECTURA y URB          NO
+ 0062 029566 GONZALES ARTEAGA OSCAR JEAN FRANCO          3.027    31.581    34.608                  ARQUITECTURA y URB          NO
+ 0063 041393 IBAÑEZ COSME JOSELINE ARACELI              12.186    21.381    33.567                  ARQUITECTURA y URB          NO
+ 0064 038396 SANCHEZ CHERO MARIAFERNANDA                20.344    12.232    32.576                  ARQUITECTURA y URB          NO
+ 0065 043644 ALARCON FLORES VALERIA JAMMYLE             21.357    10.195    31.552                  ARQUITECTURA y URB          NO
+ 0066 014078 CONTRERAS CHAVARRY KARLOS GABRIEL          19.319    12.227    31.546                  ARQUITECTURA y URB          NO
+ 0067 007921 SANTIANA QUEZADA PATRIK GILBERT            23.389     7.122    30.511                  ARQUITECTURA y URB          NO
+ 0068 037409 VELASQUEZ ADRIANO NAHDYA ABIGAYLL          23.383     7.092    30.475                  ARQUITECTURA y URB          NO
+ 0069 050621 CAMPAÑA SILVA JOSUE DAVID                  19.313    10.180    29.493                  ARQUITECTURA y URB          NO
+ 0070 007616 ARONI CALONGOS DOMINIQUE VALERIAEUGENIA    13.205    15.270    28.475                  ARQUITECTURA y URB          NO
+ 0071 041652 ROMERO MENDOZA DIEGO ALEXIS                25.421     3.038    28.459                  ARQUITECTURA y URB          NO
+ 0072 039501 CHUQUILIN QUISPEYNGA MARCELLO FRANCO       14.230    13.238    27.468                  ARQUITECTURA y URB          NO
+ 0073 029439 VASQUEZ CHOTON CAMILA LUCIA                19.319     6.096    25.415                  ARQUITECTURA y URB          NO
+ 0074 044654 LIÑAN CABALLERO NYNA CRYSTAL               13.211    11.196    24.407                  ARQUITECTURA y URB          NO
+ 0075 046963 CORRALES FLORES JIMENA CRISTELL            16.262     7.102    23.364                  ARQUITECTURA y URB          NO
+ 0076 016243 MONTALVO VASQUEZ ROSA JHASMIN              17.287     4.064    21.351                  ARQUITECTURA y URB          NO
+ 0077 021687 RODRIGUEZ PEREZ MARIZA MAHITE               3.027    16.286    19.313                  ARQUITECTURA y URB          NO
+ 0078 001638 DE LA CRUZ CHAVARRY CAMILA                 16.262     2.017    18.279                  ARQUITECTURA y URB          NO
+ 0079 026032 AVALOS DE LA CRUZ NORITA ELIZABETH         16.250     1.977    18.227                  ARQUITECTURA y URB          NO
+ 0080 004581 LEON ALVAREZ CAROLINA GENESIS ARIADNA       8.116     9.154    17.270                  ARQUITECTURA y URB          NO
+ 0081 035528 PAREDES VALVERDE DIEGO BENJAMIN             8.116     7.082    15.198                  ARQUITECTURA y URB          NO
+ 0082 050876 YNOQUIO COBEÑAS ZALET CONCEPCION           -0.036    15.230    15.194                  ARQUITECTURA y URB          NO
+ 0083 007898 CRUZ JARA ROBERTO CARLOS                    4.052    10.185    14.237                  ARQUITECTURA y URB          NO
+ 0084 051951 CARDENAS CASTRO ANA BELEN                  15.255    -2.042    13.213                  ARQUITECTURA y URB          NO
+ 0085 050765 ROJAS CARRION DORIS MANUELITA              10.142     1.977    12.119                  ARQUITECTURA y URB          NO
+ 0086 038347 BRIONES AYALA FIORELLA ALEXANDRA            9.141     2.007    11.148                  ARQUITECTURA y URB          NO
+ 0087 005525 ROQUE CUEVA HAROLD D' ALESSANDRO            5.065    -3.098     1.967                  ARQUITECTURA y URB          NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag. 14
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       29/10/2021
+                                       RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - B
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0088 007999 DAVILA CHAVEZ LUIS ANGEL                    7.097    -6.151     0.946                  ARQUITECTURA y URB          NO
+ 0089 002036 DIAZ SIGUENZA JIMENA GERALDINE             -1.043     0.991    -0.052                  ARQUITECTURA y URB          NO
+ 0090 053748 CENTURION BAZAN SOLANGE ALEXANDRA         -10.214    -6.186   -16.400                  ARQUITECTURA y URB          NO
+  ************************************************************************************************************************************
+  Nro TOTAL DE POSTULANTES ====>                             599

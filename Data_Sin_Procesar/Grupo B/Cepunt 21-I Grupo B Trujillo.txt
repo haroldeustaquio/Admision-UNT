@@ -1,0 +1,25 @@
+
+                                                 UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ DIREC.DE SIST.y COMUNIC.                  EXAMEN DE ADMISION 2021- I - CEPUNT  I * HUAMACHUCO                             Pag.  1
+        * UNIDAD P.A.D.*                  RESULTADOS GENERALES POR ESCUELA PROFESIONAL - AREA B                            06/11/2020
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT   PTJE    PUNTAJE     NOTA        ESCUELA               OBSERVA
+ DEN                                                    ACADEM    CONOC.   TOTAL     MINIMA                             CIONES
+ ======================================================================================================================================
+ 0001 802962 JARA AGREDA LAURA RUBY                      60.025   71.365  131.390    60.415   ING.AGROINDUSTRIAL        INGRESA
+ 0002 803362 COSME CARRANZA SANTOS MARINO                46.796   27.527   74.323    60.415   ING.AGROINDUSTRIAL        INGRESA
+ 0003 801562 BRICEÑO CONTRERAS ERSELI LEONELA            28.478   18.333   46.811    60.415   ING.AGROINDUSTRIAL        NO INGRESA
+ 0004 801362 CARRANZA MALLQUI ANGHELO NATAN               6.090   32.627   38.717    60.415   ING.AGROINDUSTRIAL        NO INGRESA
+ 0005 803562 QUISPE HARO MOISES JOSASAT                  11.179   24.464   35.643    60.415   ING.AGROINDUSTRIAL        NO INGRESA
+ 0006 800662 MONTES TUMBAJULCA MARCO ANTHONY             29.497    6.106   35.603    60.415   ING.AGROINDUSTRIAL        NO INGRESA
+
+
+
+ 0001 801662 VIDAL PAREDES JOEL                          21.363   44.864   66.227    32.238   ING.DE MINAS              INGRESA
+ 0002 802262 BACA DIAZ JUVITZA EIKI                       7.109   29.564   36.673    32.238   ING.DE MINAS              INGRESA
+ 0003 801262 SALVADOR SAENZ JULIO CARLOS                  9.141   21.396   30.537    32.238   ING.DE MINAS              NO INGRESA
+ 0004 801962 LAGUNA CALDERON NEISER ANTONY                9.135   20.390   29.525    32.238   ING.DE MINAS              NO INGRESA
+ 0005 802162 PEÑA RAMOS REIMIRIO                          9.135   11.201   20.336    32.238   ING.DE MINAS              NO INGRESA
+ 0006 800262 RODRIGUEZ CONTRERAS HEISER HAMER            18.306   -8.178   10.128    32.238   ING.DE MINAS              NO INGRESA
+  ************************************************************************************************************************************
+  Nro TOTAL DE POSTULANTES ====>                              12

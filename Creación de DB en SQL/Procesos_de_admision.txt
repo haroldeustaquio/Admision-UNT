@@ -1,0 +1,64 @@
+per_adm_vc	adm_nom_vc	area_adm_vc	adm_fec_dt
+21-I	Cepunt	A	05/11/2020
+23-I	Ordinario	A	21/10/2022
+23-I	Cepunt	A	15/09/2022
+23-I	Ordinario 5to	A	21/10/2022
+22-II	Ordinario	A	09/04/2022
+22-II	Cepunt	A	17/03/2022
+22-I	Ordinario	A	28/10/2021
+22-I	Ordinario 5to	A	28/10/2021
+21-I	Ordinario 5to	A	02/12/2020
+21-II	Excelencia	A	12/05/2020
+21-I	Excelencia	A	21/11/2020
+22-I	Excelencia	A	18/09/2021
+21-I	Ordinario	A	02/12/2020
+21-II	Ordinario	A	02/06/2021
+22-II	Excelencia	A	26/02/2022
+23-I	Excelencia	A	10/09/2022
+23-II	Excelencia	A	11/02/2023
+23-II	Ordinario	A	24/03/2023
+23-II	Cepunt	A	10/03/2023
+21-II	Cepunt	A	13/05/2020
+22-I	Cepunt	A	08/10/2021
+21-I	Cepunt	B	NULL
+23-I	Ordinario	B	22/10/2022
+23-I	Cepunt	B	16/09/2022
+23-I	Ordinario 5to	B	22/10/2022
+22-II	Ordinario	B	08/04/2022
+22-II	Cepunt	B	18/03/2022
+22-I	Ordinario	B	29/10/2021
+22-I	Ordinario 5to	B	29/10/2021
+21-I	Ordinario 5to	B	03/12/2020
+21-II	Excelencia	B	12/05/2020
+21-I	Excelencia	B	21/11/2020
+22-I	Excelencia	B	18/09/2021
+21-I	Ordinario	B	03/12/2020
+21-II	Ordinario	B	28/05/2021
+22-II	Excelencia	B	26/02/2022
+23-I	Excelencia	B	10/09/2022
+23-II	Excelencia	B	11/02/2023
+23-II	Ordinario	B	25/03/2023
+23-II	Cepunt	B	11/03/2023
+21-II	Cepunt	B	14/05/2020
+22-I	Cepunt	B	08/10/2021
+21-I	Cepunt	CD	NULL
+23-I	Ordinario	CD	23/10/2022
+23-I	Cepunt	CD	17/09/2022
+23-I	Ordinario 5to	CD	23/10/2022
+22-II	Ordinario	CD	07/04/2022
+22-II	Cepunt	CD	19/03/2022
+22-I	Ordinario	CD	30/10/2021
+22-I	Ordinario 5to	CD	30/10/2021
+21-I	Ordinario 5to	CD	04/12/2020
+21-II	Excelencia	CD	12/05/2020
+21-I	Excelencia	CD	21/11/2020
+22-I	Excelencia	CD	18/09/2021
+21-I	Ordinario	CD	04/12/2020
+21-II	Ordinario	CD	29/05/2021
+22-II	Excelencia	CD	26/02/2022
+23-I	Excelencia	CD	10/09/2022
+23-II	Excelencia	CD	11/02/2023
+23-II	Ordinario	CD	26/03/2023
+23-II	Cepunt	CD	12/03/2023
+21-II	Cepunt	CD	15/05/2020
+22-I	Cepunt	CD	09/10/2021

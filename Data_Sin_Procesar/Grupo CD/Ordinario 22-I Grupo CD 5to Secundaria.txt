@@ -1,0 +1,461 @@
+
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  1
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0001 036127 DIAZ SAAVEDRA JUNIOR ALONSO                61.038    93.792   154.830                  ADMINISTRACION              SI
+ 0002 001112 SOSA PARRA FABIANA BELEN                   48.828    90.734   139.562                  ADMINISTRACION              SI
+ 0003 034665 VASQUEZ ECHEANDIA ANDRES ALEJANDRO         48.828    86.655   135.483                  ADMINISTRACION              SI
+ 0004 053483 COTRINA CUSQUIPOMA KAREN NICOLLE           53.923    73.402   127.325                  ADMINISTRACION              NO
+ 0005 014827 IBAÑEZ SAAVEDRA GABRIEL                    62.057    60.119   122.176                  ADMINISTRACION              NO
+ 0006 043326 CABANILLAS CERNA ROY ANDHERSON             38.650    76.455   115.105                  ADMINISTRACION              NO
+ 0007 006184 CEDRON ARROYO VALERY YANINA                25.409    81.530   106.939                  ADMINISTRACION              NO
+ 0008 004877 KIKUCHI TORRES NEVENKA NATALI              61.032    40.730   101.762                  ADMINISTRACION              NO
+ 0009 048848 MERCEDES FLORES MIRKO RAI                  39.675    60.159    99.834                  ADMINISTRACION              NO
+ 0010 004365 GOMEZ LOZANO ANDREA LUCIA                  38.650    60.144    98.794                  ADMINISTRACION              NO
+ 0011 036737 JARA RODRIGUEZ WALTER NICOLAS              39.675    56.070    95.745                  ADMINISTRACION              NO
+ 0012 014897 TAVARA DIOSES FRANCIS SAMIR                20.320    68.272    88.592                  ADMINISTRACION              NO
+ 0013 001481 AGREDO VEGA ALESSANDRA YAMILETH            31.523    55.029    86.552                  ADMINISTRACION              NO
+ 0014 036937 CALONGE MENDOZA MELINA ALEJANDRA           35.599    47.907    83.506                  ADMINISTRACION              NO
+ 0015 035052 CONTRERAS GUTIERREZ SERGIO RAUL            43.739    38.723    82.462                  ADMINISTRACION              NO
+ 0016 014403 GUEVARA RUIZ ZUNAMITA ESTHER               41.713    39.759    81.472                  ADMINISTRACION              NO
+ 0017 048412 GARCIA PAJILLA GABRIELA  AIDE              31.529    48.928    80.457                  ADMINISTRACION              NO
+ 0018 008197 PAICO RIOS FATIMA DEL ROSARIO              41.701    38.703    80.404                  ADMINISTRACION              NO
+ 0019 003275 RECALDE AVALOS JUAN ALEXANDER              37.637    41.806    79.443                  ADMINISTRACION              NO
+ 0020 049884 LLALLE RODRIGUEZ MARIA ANDREA              38.662    39.759    78.421                  ADMINISTRACION              NO
+ 0021 034955 SALDAÑA ORTIZ FRANCISCO RAFAEL             40.688    36.691    77.379                  ADMINISTRACION              NO
+ 0022 028003 MUÑOZ GUEVARA TATIANA ANAIS                28.472    46.871    75.343                  ADMINISTRACION              NO
+ 0023 048296 RODRIGUEZ SANCHEZ JOEL ALMILCAR            22.370    51.971    74.341                  ADMINISTRACION              NO
+ 0024 023743 SALDAÑA POZO BRITTANNY MILAGRO ALESSANDR   24.408    47.907    72.315                  ADMINISTRACION              NO
+ 0025 009396 ESPINOZA MANTILLA JUSTI ALICIA EMPERATRI   15.231    56.030    71.261                  ADMINISTRACION              NO
+ 0026 045936 LARA TORRES JANEE DE MARIA                 34.574    36.661    71.235                  ADMINISTRACION              NO
+ 0027 022449 RODRIGUEZ ENRIQUEZ MARYORI BRIGHIT         45.777    20.385    66.162                  ADMINISTRACION              NO
+ 0028 049571 LIZARRAGA LANDA PAOLO STEPHANO             37.637    26.491    64.128                  ADMINISTRACION              NO
+ 0029 008143 LLANOS ALVAREZ MARIA ROSA                  22.364    40.745    63.109                  ADMINISTRACION              NO
+ 0030 013456 OLORTIGA MARIÑOS LADY MADHELYN             20.320    40.730    61.050                  ADMINISTRACION              NO
+ 0031 041025 HERNANDEZ CRUZADO EDWIN FARID              29.485    29.534    59.019                  ADMINISTRACION              NO
+ 0032 002312 NORIEGA MIÑANO NHILS ASHLEY                16.268    39.749    56.017                  ADMINISTRACION              NO
+ 0033 037304 RODRIGUEZ NARVAEZ LUCAS GUILLERMO          28.484    27.517    56.001                  ADMINISTRACION              NO
+ 0034 000657 CORTEZ CONDOR ERICK ARMANDO                29.491    26.476    55.967                  ADMINISTRACION              NO
+ 0035 020828 LOPEZ CHAVEZ LUIS FRANCISCO                36.618    18.338    54.956                  ADMINISTRACION              NO
+ 0036 052954 NEYRA BACILIO NAILY YARITH                 22.370    30.560    52.930                  ADMINISTRACION              NO
+ 0037 011163 SICCHA PIZARRO STEFHANY NICOLLE            31.529    21.371    52.900                  ADMINISTRACION              NO
+ 0038 020625 ALVARADO CORONEL DIEGO ANTONY              26.428    25.435    51.863                  ADMINISTRACION              NO
+ 0039 046696 REYES CARRANZA FLAVIO ANDRE                12.180    37.692    49.872                  ADMINISTRACION              NO
+ 0040 024436 PEREZ DURAN DANNA NICOLL                   23.389    25.475    48.864                  ADMINISTRACION              NO
+ 0041 000844 RODRIGUEZ BAZAN MIGUEL KASLIM              23.389    23.423    46.812                  ADMINISTRACION              NO
+ 0042 026455 ORTIZ RODRIGUEZ ALONDRA JULISSA            20.344    25.465    45.809                  ADMINISTRACION              NO
+ 0043 005849 RONCAL SANCHEZ LESLIE ELIANA               19.319    26.486    45.805                  ADMINISTRACION              NO
+ 0044 022181 SUAREZ SEGOVIA ADRIANA ALESSANDRA          14.230    30.560    44.790                  ADMINISTRACION              NO
+ 0045 046165 CARRASCO SILUPU ANYOLINA NATHALY           37.625     7.092    44.717                  ADMINISTRACION              NO
+ 0046 050014 CHACON MONZON ALMENDRA YENIFER MARISOL     37.631     7.077    44.708                  ADMINISTRACION              NO
+ 0047 045113 ABANTO JAVE ANDERSON EIBER                 26.440    14.244    40.684                  ADMINISTRACION              NO
+ 0048 022163 PAREDES BARRANTES DANNERY SELENE ADRIANA   17.275    19.314    36.589                  ADMINISTRACION              NO
+ 0049 053996 VILCHEZ TORRES ARIANA MILAGRITOS           25.409    11.151    36.560                  ADMINISTRACION              NO
+ 0050 049057 GUEVARA GUEVARA FERNANDITA NICOLE          -3.081    38.718    35.637                  ADMINISTRACION              NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  2
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0051 018478 CUBAS DIAZ JENNIFER IVON                   19.307    16.256    35.563                  ADMINISTRACION              NO
+ 0052 050771 MEDINA SILVA BRIDGIT YAIRA                 19.319    14.224    33.543                  ADMINISTRACION              NO
+ 0053 039901 JULCA VILLALOBOS ANYALY MAYLIN              6.084    26.486    32.570                  ADMINISTRACION              NO
+ 0054 053101 RODRIGUEZ LUJAN JHON SMITH                  5.065    24.434    29.499                  ADMINISTRACION              NO
+ 0055 009225 URQUIZA PUGLISEVICH MARIA ELVIRA           13.205    12.182    25.387                  ADMINISTRACION              NO
+ 0056 039784 VERA PRETEL NICOLL ALEXANDRA                0.983    20.330    21.313                  ADMINISTRACION              NO
+ 0057 017985 GUEVARA CARRANZA YADIRA CECILIA            26.440    -5.135    21.305                  ADMINISTRACION              NO
+ 0058 021382 LAGOS RAMOS MARIA FERNANDA                 19.319    -3.093    16.226                  ADMINISTRACION              NO
+ 0059 019143 SANCHEZ RODRIGUEZ EDRICK XAVIER            25.409   -15.370    10.039                  ADMINISTRACION              NO
+ 0060 004042 CHAMORRO VALDERRAMA KARLA JIMENA           20.320   -15.370     4.950                  ADMINISTRACION              NO
+ 0061 054598 QUISPE CHAVIL SARA RAQUEL                   0.000     0.000     0.000                  ADMINISTRACION           AUSENTE
+ 0062 000316 ZAMORA GONZALES DANIELA MILAGROS            0.000     0.000     0.000                  ADMINISTRACION              NO
+ 0063 022809 VILLARREAL HERNANDEZ LEONOR DEL PILAR       0.000     0.000     0.000                  ADMINISTRACION           AUSENTE
+
+
+
+ 0001 008834 CONTRERAS LINARES ALINA LUCIANA            39.675   110.118   149.793                  ANTROPOLOGIA                SI
+ 0002 034379 TAFUR CAMPOS LIZETH ALEXANDRA              49.847    48.928    98.775                  ANTROPOLOGIA                SI
+ 0003 026479 PAREDES SANCHEZ NILVER ANTONIO             32.554    35.675    68.229                  ANTROPOLOGIA                SI
+
+
+
+ 0001 014569 NUÑEZ MEDINA REBECA JUDITH                 34.592    79.538   114.130                  ARQUEOLOGIA                 SI
+ 0002 032292 NÚÑEZ MEDRANO JOSÉ FRANCISCO               31.529    46.886    78.415                  ARQUEOLOGIA                 SI
+ 0003 025828 VELAZCO UCAÑAY MARIA FERNANDA              29.485     7.087    36.572                  ARQUEOLOGIA                 SI
+
+
+
+ 0001 011278 QUIÑONES SANCHEZ LAURA VICTORIA            65.114   116.244   181.358                  CONTABIL.y FINAN.           SI
+ 0002 026086 CASTILLO AGUILAR LESLIE ANALI              73.254    57.101   130.355                  CONTABIL.y FINAN.           SI
+ 0003 028976 OTINIANO CASTILLO CRISTHIAN ALEXIS         54.942    70.359   125.301                  CONTABIL.y FINAN.           SI
+ 0004 007883 BLAS COSANATAN LETHICIA VALENTINA          49.853    63.217   113.070                  CONTABIL.y FINAN.           SI
+ 0005 046375 PAZO ALVAREZ DANIELA MARYCEL               39.663    70.324   109.987                  CONTABIL.y FINAN.           SI
+ 0006 019184 PEREZ LARA PAULO RODRIGO                   55.949    51.971   107.920                  CONTABIL.y FINAN.           NO
+ 0007 047265 ANGULO OBESO LIIS DAYANA                   23.401    81.570   104.971                  CONTABIL.y FINAN.           NO
+ 0008 011791 CASTILLO ESPINOZA BRITHNY CECILIA          20.332    82.566   102.898                  CONTABIL.y FINAN.           NO
+ 0009 051202 CORREA GARCIA MAURICIO JOAQUIN ESTEBAN     35.599    65.254   100.853                  CONTABIL.y FINAN.           NO
+ 0010 039674 ZAVALETA COTRINA ALEXANDER JOEL            55.949    37.702    93.651                  CONTABIL.y FINAN.           NO
+ 0011 036985 LAIZA CONTRERAS JIMENA THAYS               30.516    57.091    87.607                  CONTABIL.y FINAN.           NO
+ 0012 009631 REBAZA SALDARRIAGA JOSE DANIEL             50.866    27.522    78.388                  CONTABIL.y FINAN.           NO
+ 0013 042857 LAZARO PANTA CESIA ABIGAIL                 40.682    35.680    76.362                  CONTABIL.y FINAN.           NO
+ 0014 036633 VILCHEZ NARVAEZ ALEJANDRA MARITZA          29.485    46.866    76.351                  CONTABIL.y FINAN.           NO
+ 0015 003643 ALVITES MORI CECILIA MILAGROS              54.936    20.345    75.281                  CONTABIL.y FINAN.           NO
+ 0016 022006 HARO AYBAR BRYGITTE FERNANDA               19.313    52.997    72.310                  CONTABIL.y FINAN.           NO
+ 0017 042272 RENGIFO MIRANDA FRANSHESCA SHANTTAL        40.688    28.513    69.201                  CONTABIL.y FINAN.           NO
+ 0018 036066 ANDAYCURA VARAS ERIKA LISBETH              32.554    34.649    67.203                  CONTABIL.y FINAN.           NO
+ 0019 043068 SANCHEZ RISCO ALEXANDRA NICOLLE            25.415    38.703    64.118                  CONTABIL.y FINAN.           NO
+ 0020 023838 CHAVARRY LLAJARUNA ELIANA INES             26.440    34.659    61.099                  CONTABIL.y FINAN.           NO
+ 0021 017679 CARRANZA ZAVALETA ALEJANDRA MARIBEL        30.498    29.514    60.012                  CONTABIL.y FINAN.           NO
+ 0022 037023 LUJAN ROSADO KASANDRA LUCERO               22.370    36.686    59.056                  CONTABIL.y FINAN.           NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  3
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0023 010033 GIL TOLEDO PAMELA GERALDINE                32.542    21.391    53.933                  CONTABIL.y FINAN.           NO
+ 0024 001992 RODRIGUEZ VILLACORTA LUIS ENRIQUE          27.459    25.460    52.919                  CONTABIL.y FINAN.           NO
+ 0025 009106 OCAS CABANILLAS MARIANA DE LOS ANGELES     41.701     6.061    47.762                  CONTABIL.y FINAN.           NO
+ 0026 013781 RODRIGUEZ HORNA SONIA MILENE               24.408    22.422    46.830                  CONTABIL.y FINAN.           NO
+ 0027 047732 SANTILLAN ALAYO MARICIELO LIZET            27.459    19.354    46.813                  CONTABIL.y FINAN.           NO
+ 0028 049779 PINEDA AQUINO PEDRO WILLYAM                27.453    15.250    42.703                  CONTABIL.y FINAN.           NO
+ 0029 019063 VALVERDE CALDERON CHRISTIAN ALEXANDER      27.465    11.211    38.676                  CONTABIL.y FINAN.           NO
+ 0030 047527 NUREÑA VERA GEORGINA ELIZABETH              5.071    31.596    36.667                  CONTABIL.y FINAN.           NO
+ 0031 037732 RODRIGUEZ PAREDES ALHISSON GERALDINE       33.567     3.043    36.610                  CONTABIL.y FINAN.           NO
+ 0032 042639 HUAMAN QUIJANO RODRIGO ALONSO              15.255    18.328    33.583                  CONTABIL.y FINAN.           NO
+ 0033 050266 IBAÑEZ RUIZ SHEYLA JHANETH                 19.331    11.216    30.547                  CONTABIL.y FINAN.           NO
+ 0034 008017 ALFARO SALINAS LEYDI YANELA                15.231    15.230    30.461                  CONTABIL.y FINAN.           NO
+ 0035 032177 AMAYA CABEL CARLOS FERNANDO                15.243    10.185    25.428                  CONTABIL.y FINAN.           NO
+ 0036 032909 ALFARO ABANTO ARIANNA                      11.173    10.180    21.353                  CONTABIL.y FINAN.           NO
+ 0037 001545 FLORES MIRANDA FERNANDO JOSE               15.243     6.076    21.319                  CONTABIL.y FINAN.           NO
+ 0038 051195 EVANGELISTA SICCHA DANNE LUZ ARIANA        11.167    -1.076    10.091                  CONTABIL.y FINAN.           NO
+ 0039 014514 RODRIGUEZ BUCHELLI GRECIA MARIA             0.000     0.000     0.000                  CONTABIL.y FINAN.        AUSENTE
+
+
+
+ 0001 011875 ZUÑIGA OTOYA JUAN MARCELO                  93.604   176.408   270.012                  DERECHO Y CC.PP.            SI
+ 0002 002943 TAPIA GONZALEZ LUIS GONZALO                89.534   170.287   259.821                  DERECHO Y CC.PP.            SI
+ 0003 052149 CARMONA PURISACA GABRIEL JOAQUIN           46.790   130.508   177.298                  DERECHO Y CC.PP.            SI
+ 0004 029495 RAMIREZ LARIOS FERNANDO CARUSSO            56.974   100.944   157.918                  DERECHO Y CC.PP.            NO
+ 0005 024388 RAMOS DE LA CRUZ CAMILA  ESTEFFANY         89.534    61.175   150.709                  DERECHO Y CC.PP.            NO
+ 0006 030861 TERRONES GONZALES ANA PAULA                65.108    84.628   149.736                  DERECHO Y CC.PP.            NO
+ 0007 009385 PEREZ SALAS FATIMA THAIS                   66.127    80.539   146.666                  DERECHO Y CC.PP.            NO
+ 0008 013292 MALON SANDOVAL MAYRA NAYELI                43.739   100.939   144.678                  DERECHO Y CC.PP.            NO
+ 0009 022081 TORRES TERRONES ANDREA LEONOR              46.796    86.660   133.456                  DERECHO Y CC.PP.            NO
+ 0010 001126 CUEVA SANCHEZ JAMIN KAREN ARELI            54.936    76.470   131.406                  DERECHO Y CC.PP.            NO
+ 0011 054409 SALOMON ZAVALA OMAR ABDUL                  49.847    79.508   129.355                  DERECHO Y CC.PP.            NO
+ 0012 047816 FERNANDEZ BARRANTES CAMILA ALEJANDRA       55.949    69.313   125.262                  DERECHO Y CC.PP.            NO
+ 0013 029301 MORENO HUACCHA JORDANO VALENTINO           37.625    86.635   124.260                  DERECHO Y CC.PP.            NO
+ 0014 000218 BANDA ORBEGOSO NATALY LISBETH              42.726    80.534   123.260                  DERECHO Y CC.PP.            NO
+ 0015 031545 GABRIEL POLO GERALDINE XIOMARA             24.408    97.876   122.284                  DERECHO Y CC.PP.            NO
+ 0016 006474 CARRANZA QUIROZ DIEGO MARIANO              51.879    67.266   119.145                  DERECHO Y CC.PP.            NO
+ 0017 015999 PAJUELO RODRIGUEZ SEBASTIAN ANDRE          48.828    69.328   118.156                  DERECHO Y CC.PP.            NO
+ 0018 006661 FLORES GUZMAN ANDREA VALERIA               59.012    59.133   118.145                  DERECHO Y CC.PP.            NO
+ 0019 011663 MARINES VEGA ALESSANDRA YARDELY            42.720    74.408   117.128                  DERECHO Y CC.PP.            NO
+ 0020 053249 DEL CASTILLO GRADOS GUSTAVO                51.885    64.228   116.113                  DERECHO Y CC.PP.            NO
+ 0021 003111 LEON MARROQUIN ANA PRISCILA                56.974    57.101   114.075                  DERECHO Y CC.PP.            NO
+ 0022 006371 GUERRA MEZA FRANKLIN FERNANDO              61.044    51.991   113.035                  DERECHO Y CC.PP.            NO
+ 0023 014176 MEOÑO MEGO BRIKNY ESTHEFANY                46.790    60.129   106.919                  DERECHO Y CC.PP.            NO
+ 0024 035105 MAGUIÑA AYALA NATALIA ELIZABETH            48.828    56.055   104.883                  DERECHO Y CC.PP.            NO
+ 0025 011652 RIOS ZAVALETA NOHELIA CAROLINA             39.669    64.228   103.897                  DERECHO Y CC.PP.            NO
+ 0026 009463 CHAVEZ PAREDES CLAUDIA ALEJANDRA           53.917    48.908   102.825                  DERECHO Y CC.PP.            NO
+ 0027 001031 SOLANO HERRERA MAYRA LUCIA                 50.854    51.951   102.805                  DERECHO Y CC.PP.            NO
+ 0028 031225 MEDRANO QUIROZ SEGUNDO FAUBRISSIO          32.554    63.192    95.746                  DERECHO Y CC.PP.            NO
+ 0029 040276 SICCHE ROLDAN AXEL GIANFRANCO              41.707    49.959    91.666                  DERECHO Y CC.PP.            NO
+ 0030 010876 HERRERA MELENDEZ PATRICK ELY               35.587    56.045    91.632                  DERECHO Y CC.PP.            NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  4
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0031 035315 SANDOVAL MELENDEZ CESAR OSWALDO            26.428    61.145    87.573                  DERECHO Y CC.PP.            NO
+ 0032 006332 MUDARRA RAMOS KATHERINE JULISSA            51.885    35.685    87.570                  DERECHO Y CC.PP.            NO
+ 0033 001927 SOLANO SANCHEZ AURORA CHRISTINA            48.828    38.708    87.536                  DERECHO Y CC.PP.            NO
+ 0034 024852 ESPINOZA ALVA MIGUEL ALEJANDRO             30.510    56.075    86.585                  DERECHO Y CC.PP.            NO
+ 0035 000838 DESPOSORIO SANCHEZ PAOLA FERNANDA          41.695    43.793    85.488                  DERECHO Y CC.PP.            NO
+ 0036 032166 CARRETERO ALVARADO NATALIE MICHELLE        19.319    65.244    84.563                  DERECHO Y CC.PP.            NO
+ 0037 000828 REYES GAMARRA AVRIL AYELEN                 24.402    60.134    84.536                  DERECHO Y CC.PP.            NO
+ 0038 018277 RIVERA IBAÑEZ MIRELLA KATHERINE            59.006    25.455    84.461                  DERECHO Y CC.PP.            NO
+ 0039 044967 ALVA CASANATAN GUSTAVO ENRIQUE             32.542    50.950    83.492                  DERECHO Y CC.PP.            NO
+ 0040 038702 ARANDA REYES STEFANY YAMILE                36.618    45.850    82.468                  DERECHO Y CC.PP.            NO
+ 0041 003497 GARCIA MENDOZA LUCY GIANELLA               35.605    44.854    80.459                  DERECHO Y CC.PP.            NO
+ 0042 015637 CHIGNE BAUTISTA DIANA OLENKA               26.446    53.007    79.453                  DERECHO Y CC.PP.            NO
+ 0043 044218 JOAQUIN ORBEGOZO JOSELYN FRANCISCA BELEN   29.497    49.924    79.421                  DERECHO Y CC.PP.            NO
+ 0044 048706 ORTIZ LOPEZ CAMILA SALET                   42.726    35.670    78.396                  DERECHO Y CC.PP.            NO
+ 0045 016687 MEZA TAMAYO KEYLA PATRICIA                 50.866    27.522    78.388                  DERECHO Y CC.PP.            NO
+ 0046 020122 LOAYZA ORTIZ NELLY ABIHAIL                 25.421    51.971    77.392                  DERECHO Y CC.PP.            NO
+ 0047 013135 SAAVEDRA TORRES SASKIA THIAMAT             31.535    44.849    76.384                  DERECHO Y CC.PP.            NO
+ 0048 018196 GUIZABALO LOPEZ RUTH KAROL                 33.567    42.812    76.379                  DERECHO Y CC.PP.            NO
+ 0049 047895 RAMOS REYES JENIFFER KATHERINNE YAJAYRA    49.853    26.501    76.354                  DERECHO Y CC.PP.            NO
+ 0050 001469 ROJAS ALCALDE MARIAFERNANDA DANIELA        35.605    39.764    75.369                  DERECHO Y CC.PP.            NO
+ 0051 044161 OTINIANO RODRIGUEZ LUIS FABRIZIO           38.656    34.659    73.315                  DERECHO Y CC.PP.            NO
+ 0052 001231 ESPEJO CAFFO ANGIE MASIEL                  14.218    57.056    71.274                  DERECHO Y CC.PP.            NO
+ 0053 014983 TROYES SILVA LUCERO  MARGARITA             38.644    32.572    71.216                  DERECHO Y CC.PP.            NO
+ 0054 037812 TALLA SÁNCHEZ MARIANO ANDRED               24.402    45.870    70.272                  DERECHO Y CC.PP.            NO
+ 0055 036028 IPARRAGUIRRE SICCHA ROBERTO FABRIZIO       31.535    38.723    70.258                  DERECHO Y CC.PP.            NO
+ 0056 010101 LIZARRAGA RUIZ SELENE THAISS DEL PILAR     20.332    48.908    69.240                  DERECHO Y CC.PP.            NO
+ 0057 004052 PLASENCIA FERNANDEZ NILBER RODRIGO         24.420    43.843    68.263                  DERECHO Y CC.PP.            NO
+ 0058 013019 CORNEJO RODRIGUEZ GENESIS GERALDINE EUG    -0.036    67.251    67.215                  DERECHO Y CC.PP.            NO
+ 0059 034943 VILLACORTA ABANTO JUAN LEONARDO            23.383    43.808    67.191                  DERECHO Y CC.PP.            NO
+ 0060 035203 GARCIA RODRIGUEZ ALEXA JIMENA              32.548    34.634    67.182                  DERECHO Y CC.PP.            NO
+ 0061 049879 RODRIGUEZ CHIVILCHES SONALI MONTIEL        30.498    36.651    67.149                  DERECHO Y CC.PP.            NO
+ 0062 033936 MAURICIO ANGULO ABIGAIL AMICARELY CORAIM   32.536    33.608    66.144                  DERECHO Y CC.PP.            NO
+ 0063 000941 MORENO MALCA ROMINA MAITE                  25.409    40.730    66.139                  DERECHO Y CC.PP.            NO
+ 0064 025684 CENTENO CHACON ENMA LUCIANA                30.498    35.630    66.128                  DERECHO Y CC.PP.            NO
+ 0065 008051 MONTOYA AGUIRRE LUIS ENRIQUE               25.427    39.749    65.176                  DERECHO Y CC.PP.            NO
+ 0066 008495 SANTISTEBAN ACOSTA JENIFER ESTRELLA        32.548    31.596    64.144                  DERECHO Y CC.PP.            NO
+ 0067 040682 BERMUDEZ QUINTANA ARIANA DEL ROCIO         14.224    48.923    63.147                  DERECHO Y CC.PP.            NO
+ 0068 053886 RUIZ ROSILLO NAKED JINENJI                 27.459    35.655    63.114                  DERECHO Y CC.PP.            NO
+ 0069 043915 ESPINOZA BUSTAMANTE EMILIO GAEL            19.313    42.792    62.105                  DERECHO Y CC.PP.            NO
+ 0070 018956 MARTINEZ SAAVEDRA CARLOS ALBERTO           30.516    30.585    61.101                  DERECHO Y CC.PP.            NO
+ 0071 048587 QUIROGA PAREDES NATALIA YUSTINE            26.440    34.644    61.084                  DERECHO Y CC.PP.            NO
+ 0072 018926 HEREDIA REATEGUI GLADIS SOFIA              43.739    17.297    61.036                  DERECHO Y CC.PP.            NO
+ 0073 041962 PAREDES MIÑANO JORGE LEONARDO              20.344    39.744    60.088                  DERECHO Y CC.PP.            NO
+ 0074 011058 ZORRILLA MONTENEGRO LALESHKA AKYANEL       42.720    16.266    58.986                  DERECHO Y CC.PP.            NO
+ 0075 050216 LOZADA CARRASCO ADRIANA GHILL              26.440    31.586    58.026                  DERECHO Y CC.PP.            NO
+ 0076 028722 VARAS CABRERA LADY NICOL                   32.548    24.459    57.007                  DERECHO Y CC.PP.            NO
+ 0077 013548 TORRES GONZALEZ KARLO GABRIEL              25.409    31.551    56.960                  DERECHO Y CC.PP.            NO
+ 0078 000792 FLORES POLO MILAGROS GERALDINE             35.599    20.365    55.964                  DERECHO Y CC.PP.            NO
+ 0079 053911 RUBIO REYNA GLADYS ROSALIND                27.459    26.501    53.960                  DERECHO Y CC.PP.            NO
+ 0080 001812 CARRERA VASQUEZ ELSON EFRAIN               13.205    40.740    53.945                  DERECHO Y CC.PP.            NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  5
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0081 045032 DELGADO MINEZ GABRIELA DE LOS ANGELES      21.357    32.582    53.939                  DERECHO Y CC.PP.            NO
+ 0082 000293 HORNA LOLOY YAMILET ARIATNA                26.446    26.471    52.917                  DERECHO Y CC.PP.            NO
+ 0083 054533 RODRIGUEZ LAVADO VALERIA ROSA SALET        20.338    29.554    49.892                  DERECHO Y CC.PP.            NO
+ 0084 029803 ZAVALETA DAVALOS ENIO FABRICCIO            19.325    30.565    49.890                  DERECHO Y CC.PP.            NO
+ 0085 009216 CLAVIJO MILLONES NINO FRANCO               27.459    22.412    49.871                  DERECHO Y CC.PP.            NO
+ 0086 011319 AGAMA IGLESIAS ARIANA BELEN                42.726     7.117    49.843                  DERECHO Y CC.PP.            NO
+ 0087 051561 ENCOMENDEROS ALVARADO LUCIANA SOPHIE CAR    8.110    40.730    48.840                  DERECHO Y CC.PP.            NO
+ 0088 013845 CIPRIANO PAREDES CARLA FIORELLA            12.192    35.655    47.847                  DERECHO Y CC.PP.            NO
+ 0089 040973 VERA MORALES ANNE ASTRID                   26.440    21.396    47.836                  DERECHO Y CC.PP.            NO
+ 0090 002062 PASAPERA CASTILLO JEAN FRANCO              35.605    11.206    46.811                  DERECHO Y CC.PP.            NO
+ 0091 033193 AGUILAR SERRATO JOSE MANUEL                21.345    25.450    46.795                  DERECHO Y CC.PP.            NO
+ 0092 045154 PINEDA PIMINCHUMO DANIA ANTONELA           10.142    35.630    45.772                  DERECHO Y CC.PP.            NO
+ 0093 017356 RIOS AYAY CRISTIAN OMAR                    14.218    30.530    44.748                  DERECHO Y CC.PP.            NO
+ 0094 009005 HUAMAN REYNA IVETTE                        20.344    23.443    43.787                  DERECHO Y CC.PP.            NO
+ 0095 034311 REYES BACILIO BRANDON ZORAN JET LI         17.293    24.469    41.762                  DERECHO Y CC.PP.            NO
+ 0096 044913 GUTIERREZ MUNISACA ALEXANDRA NAOMI         20.338    21.401    41.739                  DERECHO Y CC.PP.            NO
+ 0097 025855 GUZMAN HERRERA KARLA BERENICE              17.269    24.424    41.693                  DERECHO Y CC.PP.            NO
+ 0098 052528 YUPANQUI SANCHEZ DANIEL EDUARDO            20.320    20.330    40.650                  DERECHO Y CC.PP.            NO
+ 0099 034224 CONTRERAS BURGOS LUCERO CELESTE            45.765    -5.170    40.595                  DERECHO Y CC.PP.            NO
+ 0100 011713 VASQUEZ QUISPE LYA ILLAREQ                 14.218    23.393    37.611                  DERECHO Y CC.PP.            NO
+ 0101 043737 JARA LORENZO DANIEL TAKASHIRO              20.338    16.291    36.629                  DERECHO Y CC.PP.            NO
+ 0102 013501 CIEZA GAMBOA LUIS ALESSANDRO               14.236    21.401    35.637                  DERECHO Y CC.PP.            NO
+ 0103 008532 ROJAS RISCO CARMEN DE LOS MILAGROS         13.211    22.392    35.603                  DERECHO Y CC.PP.            NO
+ 0104 054603 LEIVA BRIONES KARLA JHOVANKA               21.351    10.155    31.506                  DERECHO Y CC.PP.            NO
+ 0105 009839 ALCANTARA CHAVEZ ALLISON NICOLE            21.357     8.148    29.505                  DERECHO Y CC.PP.            NO
+ 0106 023358 LOPEZ BARON MARINO ALESSANDRO              15.243    14.239    29.482                  DERECHO Y CC.PP.            NO
+ 0107 027812 ALAYO MORALES JHOSSUA JHUNIET              15.231    14.214    29.445                  DERECHO Y CC.PP.            NO
+ 0108 047057 PLASENCIA LOZANO JUAN ANGEL                 8.116    20.330    28.446                  DERECHO Y CC.PP.            NO
+ 0109 016773 URRA ÑIQUE FABRIZIO UBALDO                 17.281     9.154    26.435                  DERECHO Y CC.PP.            NO
+ 0110 034901 ORELLANA MARCO NAI                         22.370     4.034    26.404                  DERECHO Y CC.PP.            NO
+ 0111 000499 CACEDA CABRERA CLAUDIO MICHAEL             15.249     9.154    24.403                  DERECHO Y CC.PP.            NO
+ 0112 025302 RIOS ARANDA MARICIELO                      12.204    11.211    23.415                  DERECHO Y CC.PP.            NO
+ 0113 001365 TOLENTINO SALDAÑA SANDRA GIULIANNA          8.116    14.219    22.335                  DERECHO Y CC.PP.            NO
+ 0114 049167 BURGOS CRUZ DANIELA ALEXANDRA              20.320     1.972    22.292                  DERECHO Y CC.PP.            NO
+ 0115 038363 LLACUA ENOKI ANDREA ELIZABETH              39.663   -20.465    19.198                  DERECHO Y CC.PP.            NO
+ 0116 041753 RAMOS MARCELIANO CESAR ALEXANDER           19.307    -1.066    18.241                  DERECHO Y CC.PP.            NO
+ 0117 037243 ARAUJO URQUIZO GREISS FIORELLA             19.307    -4.149    15.158                  DERECHO Y CC.PP.            NO
+ 0118 009767 ALVAREZ CASTILLO BRIZETH YERALDINE          4.058    10.180    14.238                  DERECHO Y CC.PP.            NO
+ 0119 017835 GUEVARA SEGURA JUAN DIEGO                   3.027    10.140    13.167                  DERECHO Y CC.PP.            NO
+ 0120 045342 GONZALES GONZALES ALONDRA SOLANSH          11.161    -0.070    11.091                  DERECHO Y CC.PP.            NO
+ 0121 048223 MUÑOZ SEGOVIA SOFIA KAROLINA               14.230    -6.156     8.074                  DERECHO Y CC.PP.            NO
+ 0122 022986 PLASENCIA RUESTA KLEIVER SEBASTIAN          2.020     3.033     5.053                  DERECHO Y CC.PP.            NO
+ 0123 017829 REYES YUPANQUI ANTONY JHONATAN              5.059   -14.309    -9.250                  DERECHO Y CC.PP.            NO
+ 0124 049729 LAYZA DIAZ PAOLA VALERIA                  -15.303   -35.770   -51.073                  DERECHO Y CC.PP.            NO
+
+
+
+ 0001 025631 ARIZOLA CERNA ALEJANDRO TAKAHIRO           70.197    68.317   138.514                  ECONOMIA                    SI
+ 0002 004711 RODRIGUEZ LLARO FATIMA LUCIANA             46.796    72.381   119.177                  ECONOMIA                    SI
+ 0003 015871 SOTO BARRAGAN ALONDRA ARACELLY             26.434    84.608   111.042                  ECONOMIA                    SI
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  6
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0004 000329 MEDINA LOPEZ MATIAS LAUREANO               46.796    64.238   111.034                  ECONOMIA                    SI
+ 0005 010424 BELLIDO LEON ANGEL STEFANO                 53.917    56.065   109.982                  ECONOMIA                    SI
+ 0006 026718 JARA JARA ANGIELYNA NICOLL                 49.853    53.017   102.870                  ECONOMIA                    SI
+ 0007 019773 TORRES CUEVA LUIS ENRIQUE                  25.409    77.456   102.865                  ECONOMIA                    SI
+ 0008 002239 SERRANO DEZA JESUS ANDRES                  59.012    43.843   102.855                  ECONOMIA                    NO
+ 0009 033983 CASAS BARRAGAN EMERSON MIGUEL              36.618    62.186    98.804                  ECONOMIA                    NO
+ 0010 022772 SANCHEZ ATO DANITZA RUBI                   53.917    44.854    98.771                  ECONOMIA                    NO
+ 0011 016901 ORELLANO SIESQUEN ARIANA OTILIA            55.943    40.730    96.673                  ECONOMIA                    NO
+ 0012 007671 LEON VALVERDE JIMENA SHERLYN               42.720    50.945    93.665                  ECONOMIA                    NO
+ 0013 005068 SEGURA VILLANUEVA JOSEFINA MORAYMA         46.796    43.843    90.639                  ECONOMIA                    NO
+ 0014 024451 POLO GONZALES D'ALESSANDRO DANIEL          59.006    24.454    83.460                  ECONOMIA                    NO
+ 0015 046022 CASTILLO SIFUENTES HADE JEWEL              27.447    55.019    82.466                  ECONOMIA                    NO
+ 0016 038135 PALOMINO NOMBERTO MARIA ROSA               43.745    37.717    81.462                  ECONOMIA                    NO
+ 0017 020109 RODRIGUEZ CERNA YADHIRA HAYDEE             35.587    45.830    81.417                  ECONOMIA                    NO
+ 0018 022393 DIAZ DA CRUZ MAURICIO SEBASTIAN            50.866    29.564    80.430                  ECONOMIA                    NO
+ 0019 047491 SERVA LAUREANO FERNANDO ALFONSO            45.777    34.639    80.416                  ECONOMIA                    NO
+ 0020 024798 HUAMANCHUMO SALDAÑA CRHISTEEL ESTEFANY     30.498    46.876    77.374                  ECONOMIA                    NO
+ 0021 035638 ROJAS SERRANO CIELO BELEN                  55.955    18.338    74.293                  ECONOMIA                    NO
+ 0022 018351 MADRID BALTODANO VICTOR DANIEL             20.320    51.951    72.271                  ECONOMIA                    NO
+ 0023 007715 CASTILLO GIRALDO KEILA                     41.707    28.533    70.240                  ECONOMIA                    NO
+ 0024 054269 ZUÑIGA VERA DIEGO SEBASTIAN                34.592    34.664    69.256                  ECONOMIA                    NO
+ 0025 052328 LIZA LUNA MARIA FERNANDA                   38.656    26.491    65.147                  ECONOMIA                    NO
+ 0026 036505 LOPEZ TORRES LIONEL AARON ALDAIR           37.643    23.448    61.091                  ECONOMIA                    NO
+ 0027 053898 ARISMENDIZ CASTILLO MARIA FERNANDA ALOND   30.498    25.430    55.928                  ECONOMIA                    NO
+ 0028 022339 TERRONES ANTICONA XIOMARA NAOMI            29.497    23.438    52.935                  ECONOMIA                    NO
+ 0029 034011 RONCAL DIAZ CESAR LOUIS                    35.599    16.301    51.900                  ECONOMIA                    NO
+ 0030 036708 PLASENCIA TANDAIPAN LUCIANA ANTONELLA      20.320    30.530    50.850                  ECONOMIA                    NO
+ 0031 036564 REGALADO DIAZ JHASMIN ARACELI               6.072    31.551    37.623                  ECONOMIA                    NO
+ 0032 022269 COCA VALENZUELA ERICK ALEXANDER            29.497     7.117    36.614                  ECONOMIA                    NO
+ 0033 035821 MANRIQUE ZETA ENNY PAMELA                  22.370    13.233    35.603                  ECONOMIA                    NO
+ 0034 001217 SOLES NAZARIO LUIS GUILLERMO               20.320     6.051    26.371                  ECONOMIA                    NO
+ 0035 005906 GAMBOA DIAZ DANIEL ALFREDO                  0.000     0.000     0.000                  ECONOMIA                 AUSENTE
+
+
+
+ 0001 028642 MENDOZA PORTILLA TRACY KIARA BRENDA        39.669    54.008    93.677                  TRABAJO SOCIAL              SI
+ 0002 053968 FERNÁNDEZ BOCANEGRA SIRIS JULEYSI          29.497    42.777    72.274                  TRABAJO SOCIAL              SI
+ 0003 035769 INOÑAN VERA LUCIANA ISABEL                 16.262    52.992    69.254                  TRABAJO SOCIAL              SI
+ 0004 026071 LOZANO PEREZ ANGELA YAMILLE                37.643    31.606    69.249                  TRABAJO SOCIAL              SI
+ 0005 041353 PALOMINO SUAREZ FERNANDA DANELLI           44.764    17.322    62.086                  TRABAJO SOCIAL              SI
+ 0006 048162 AVILA CONCEPCION ANDRES JOSUE              35.605    25.470    61.075                  TRABAJO SOCIAL              SI
+ 0007 001024 LOYAGA ESQUIVEL KAMYLA PAOLA               35.599    25.455    61.054                  TRABAJO SOCIAL              SI
+ 0008 050255 RUIZ ZAMBRANO YADIRA YVONNE DEL CARMEN     28.478    27.492    55.970                  TRABAJO SOCIAL              NO
+ 0009 009366 LEON SEBASTIAN NATALY BELEN                33.573    19.364    52.937                  TRABAJO SOCIAL              NO
+ 0010 039467 AVALOS DELGADO ALANIS MICHELLE             26.434    25.450    51.884                  TRABAJO SOCIAL              NO
+ 0011 025936 QUINTANA TORRES ARIANA JIMENA              23.389    22.417    45.806                  TRABAJO SOCIAL              NO
+ 0012 011332 BENITES PEÑA MILAGROS PAMELA               13.211    29.549    42.760                  TRABAJO SOCIAL              NO
+ 0013 039209 MEDINA SANCHEZ GLADIS LUCERO               40.688     1.006    41.694                  TRABAJO SOCIAL              NO
+ 0014 054616 MENA DIAZ JUDITH NATALI                    25.409    15.230    40.639                  TRABAJO SOCIAL              NO
+ 0015 017598 MARQUINA SOBREVILLA STHEFANY IVETH         10.166    16.301    26.467                  TRABAJO SOCIAL              NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  7
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0016 019499 CASTILLO AGUILAR FATIMA                    13.217    13.243    26.460                  TRABAJO SOCIAL              NO
+ 0017 003916 COTRINA FERNANDEZ KARLA LETICIA             5.053   -10.270    -5.217                  TRABAJO SOCIAL              NO
+
+
+
+ 0001 038183 SOTO HUAMAN DIANA PAMELA                   41.707   123.381   165.088                  TURISMO                     SI
+ 0002 036227 GARCIA YSHUIZA MARIA BELEN                 31.523    46.866    78.389                  TURISMO                     SI
+ 0003 046171 AGUILAR TAPIA HECTOR ALONSO                27.465    19.364    46.829                  TURISMO                     SI
+ 0004 035281 VELASQUEZ MENDOZA JHOSMELYN MARICIELO      28.478    15.290    43.768                  TURISMO                     SI
+ 0005 018189 SALAZAR CUBAS LEYLA ROSMERY                18.306    13.248    31.554                  TURISMO                     SI
+
+
+
+ 0001 017883 RODRIGUEZ ROSAS OMARA THAIS                44.758    52.987    97.745                  EDUCACION INICIAL           SI
+ 0002 042564 AVILA CABRERA MELANI PRISCILA              35.587    40.730    76.317                  EDUCACION INICIAL           SI
+ 0003 019645 VASQUEZ SANCHEZ DANUSKHA CAMILA            27.465    43.838    71.303                  EDUCACION INICIAL           SI
+ 0004 004476 VALDIVIA AGUIRRE FERNANDA IRENE            24.402    38.723    63.125                  EDUCACION INICIAL           SI
+ 0005 013643 BEJARANO ARANDA NAYELI TATIANA             13.211    47.877    61.088                  EDUCACION INICIAL           SI
+ 0006 001327 HIDALGO DELGADO DANA VALERIA                2.002    48.898    50.900                  EDUCACION INICIAL           SI
+ 0007 044255 RUIZ CHUQUIPOMA SOFIA MAYTED                5.077    12.217    17.294                  EDUCACION INICIAL           NO
+ 0008 017934 RODRIGUEZ PAREDES YAMILE MAGDIEL            7.103     4.039    11.142                  EDUCACION INICIAL           NO
+ 0009 023958 HIDALGO SALDAÑA ZOYLITA POALY              -5.125   -18.428   -23.553                  EDUCACION INICIAL           NO
+
+
+
+ 0001 037488 CASTILLO ROMERO JENIFER SELENE             35.593    79.513   115.106                  EDUCACION PRIMARIA          SI
+ 0002 049071 CHINCHAY CHICLOTE GINA XIOMARA             34.592    41.801    76.393                  EDUCACION PRIMARIA          SI
+ 0003 035717 QUISPE ACEVEDO MAYLI MARIA FERNANDA        35.611    15.295    50.906                  EDUCACION PRIMARIA          SI
+ 0004 017564 REYES SANTOS MIRELLA DAYANNA               35.605    10.175    45.780                  EDUCACION PRIMARIA          SI
+ 0005 040695 SILVA SANGAY MILAGRITOS ANTUANET           23.395    21.391    44.786                  EDUCACION PRIMARIA          SI
+ 0006 054665 MONTENEGRO VIGO DEYANIRA MARICIELO         19.319     0.996    20.315                  EDUCACION PRIMARIA          SI
+ 0007 024329 ROJAS BRICEÑO MELISSA BELEN                 7.103     8.113    15.216                  EDUCACION PRIMARIA          NO
+ 0008 031138 MENDOZA PELAES BELEN MARICIELO             10.142   -10.270    -0.128                  EDUCACION PRIMARIA          NO
+
+
+
+ 0001 030884 LOZA RODRIGUEZ ANTJA YVANNA                35.599    56.055    91.654                  CCAS.COMUNICACION           SI
+ 0002 042539 LECCA TIPARRA MANUEL EDUARDO               38.644    49.924    88.568                  CCAS.COMUNICACION           SI
+ 0003 051036 AYALA GUEVARA ANTONIA MARTHA SOPHIE        29.491    52.977    82.468                  CCAS.COMUNICACION           SI
+ 0004 004111 SILVA CARRERA AMY GABRIELA                 35.587    45.830    81.417                  CCAS.COMUNICACION           SI
+ 0005 020291 RIVERA VERA ARIADNA NICOLLE                20.332    60.124    80.456                  CCAS.COMUNICACION           SI
+ 0006 035012 RAMIREZ VINCES EDUARDO VALENTINO           37.637    42.802    80.439                  CCAS.COMUNICACION           SI
+ 0007 010145 PALMA SANCHEZ DANITZA YAMILETH             27.459    51.991    79.450                  CCAS.COMUNICACION           NO
+ 0008 019046 JUAREZ LINO MIGUEL ALEXANDER               38.656    36.686    75.342                  CCAS.COMUNICACION           NO
+ 0009 050393 BURGOS AVILA ANGHELA BRIGHIT               31.529    39.754    71.283                  CCAS.COMUNICACION           NO
+ 0010 037848 REGALADO URIARTE ANA LIZETH                49.853    20.380    70.233                  CCAS.COMUNICACION           NO
+ 0011 041632 RAMOS JARA ANTONELLA BELEN                 34.586    34.654    69.240                  CCAS.COMUNICACION           NO
+ 0012 010418 DELGADO RODRIGUEZ THOMAS ADRIAN            44.764    22.412    67.176                  CCAS.COMUNICACION           NO
+ 0013 043116 GAMARRA CUEVA ELLEN VALERY                 30.498    35.630    66.128                  CCAS.COMUNICACION           NO
+ 0014 046568 ALARCÓN HUAMÁN DENNY LAURA                 16.262    46.886    63.148                  CCAS.COMUNICACION           NO
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ OF.DE TECNOLOG.DE LA INFOR.                    EXAMEN DE ADMISION ORDINARIO 2022-I                                        Pag.  8
+       * AREA P.A.D.*                           QUINTO GRADO DE EDUCACION SECUNDARIA                                       30/10/2021
+                                      RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - C-D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE                     ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL                                            VACANTE
+ ======================================================================================================================================
+ 0015 008252 SANDOVAL ROJAS ALISON VIVIANA              35.587    23.393    58.980                  CCAS.COMUNICACION           NO
+ 0016 032702 CAPRISTAN RODRIGUEZ ANGHELA BRIGITTE       26.446    29.554    56.000                  CCAS.COMUNICACION           NO
+ 0017 033226 GUTIERREZ LEON MANUEL ANTONIO              20.320    35.630    55.950                  CCAS.COMUNICACION           NO
+ 0018 030194 BAZAN CHAVEZ REBECA ALESSANDRA             20.344    25.490    45.834                  CCAS.COMUNICACION           NO
+ 0019 017248 ROBLES GONZALES ALVARO SALVADOR            13.211    22.417    35.628                  CCAS.COMUNICACION           NO
+ 0020 011552 FLORIAN PAREDES ALDO FABRIZZIO             11.173    18.338    29.511                  CCAS.COMUNICACION           NO
+ 0021 048451 BARTRA CHAVEZ JEREMY JOSHUA                11.179     3.033    14.212                  CCAS.COMUNICACION           NO
+
+
+
+ 0001 036484 AGUILAR MARTINEZ ANA SOFIA                 43.739    73.397   117.136                  CC.POLITICA y GOB.          SI
+ 0002 054177 RIVEROS ESCOBAL ANGIE JHARLINE             26.440    70.324    96.764                  CC.POLITICA y GOB.          SI
+ 0003 021601 ESQUIVEL VARGAS MIREYA KRUPSKAYA           31.535    53.007    84.542                  CC.POLITICA y GOB.          SI
+ 0004 010807 ESPEJO ZAVALETA SOFIA ALESSANDRA           23.395    33.638    57.033                  CC.POLITICA y GOB.          SI
+ 0005 022788 FENCO BERNAL BILLY CRISTHIAN               30.510    13.238    43.748                  CC.POLITICA y GOB.          SI
+ 0006 029789 COLACCI ROMERO ALONSO TADEO                17.287    25.485    42.772                  CC.POLITICA y GOB.          SI
+ 0007 014261 CASTILLO SANCHEZ CARLA JESUS               24.414    15.275    39.689                  CC.POLITICA y GOB.          NO
+
+
+
+ 0001 032966 CABALLERO SALDAÑA MARCO ANGEL              45.765    45.830    91.595                  ED.SEC: MATEMATICA          SI
+
+
+
+ 0001 034699 SANCHEZ JARA SUSANA SANCHEZ                32.554    53.012    85.566                  ED.SEC: LENGUA              SI
+ 0002 000672 VASQUEZ VILCHEZ JOAQUIN IGNACIO            26.440    33.643    60.083                  ED.SEC: LENGUA              SI
+ 0003 020001 QUISPE HARO ESTHER KAZUNI YULIANA          26.440    12.192    38.632                  ED.SEC: LENGUA              SI
+ 0004 017748 LLACUACHAQUI SANCHEZ BELEN                 19.313     7.102    26.415                  ED.SEC: LENGUA              SI
+
+
+
+ 0001 021785 ORBEGOSO RAMIREZ VALENTINA ELIZABETH       30.522    74.428   104.950                  ED.SEC: IDIOMAS             SI
+ 0002 016156 TINEO QUEZADA ANGELY KARINA                47.815    42.812    90.627                  ED.SEC: IDIOMAS             SI
+ 0003 023891 GARCIA FARRO ANDREA DE LOS ANGELES         35.605    27.522    63.127                  ED.SEC: IDIOMAS             SI
+ 0004 015052 BOCANEGRA RAMOS FLAVIO ANDRE               31.535    26.506    58.041                  ED.SEC: IDIOMAS             SI
+ 0005 003995 CRUZ HUACACOLQUI VERONICA DEL CARMEN       34.586    22.422    57.008                  ED.SEC: IDIOMAS             SI
+ 0006 018869 VILLANUEVA MELGAR MILAGROS ELIZABETH       20.344    35.680    56.024                  ED.SEC: IDIOMAS             SI
+ 0007 040607 MONTEZA ORTEGA ALEXANDRA NICOHOL           19.313    36.671    55.984                  ED.SEC: IDIOMAS             SI
+ 0008 005157 RODRIGUEZ FRANCO ANELI AMPARO              21.357    28.538    49.895                  ED.SEC: IDIOMAS             SI
+ 0009 017662 CASTILLO YALTA JENNIFER CECILIA            15.243    10.170    25.413                  ED.SEC: IDIOMAS             NO
+
+
+
+ 0001 016547 BLANCO MACHUCA NELSON VICTOR               44.758    43.818    88.576                  ED.SEC: HISTORIA            SI
+  ************************************************************************************************************************************
+  Nro TOTAL DE POSTULANTES ====>                             349

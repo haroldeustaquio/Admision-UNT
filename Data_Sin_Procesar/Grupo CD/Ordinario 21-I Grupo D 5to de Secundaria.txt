@@ -1,0 +1,76 @@
+
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ DIREC.DE SIST.y COMUNIC.                  EXAMEN DE ADMISION ORDINARIO 2021- I * TRUJILLO                                 Pag.  1
+        * UNIDAD P.A.D.*                         QUINTO GRADO DE EDUCACION SECUNDARIA                                      05/12/2020
+                                         RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE      ULTIMO         ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL     INGRESANTE                             VACANTE
+ ======================================================================================================================================
+ 0001 008565 GUEVARA QUISPE GABRIELA JAZMIN             60.025   113.176   173.201     148.730      ADMINISTRACION              SI
+ 0002 024895 GONZALEZ BARBOZA DEISMARY                  31.535   121.339   152.874     148.730      ADMINISTRACION              SI
+ 0003 015052 URIOL CHIRINOS PAOLO SEBAZTIAN             61.044    90.739   151.783     148.730      ADMINISTRACION              SI
+ 0004 015686 CARO ZORRILLA DIEGO ALEJANDRO              21.351   108.071   129.422     148.730      ADMINISTRACION              NO
+ 0005 017706 SIFUENTES ORBEGOSO AKEMY ALEJANDRA         41.707    72.376   114.083     148.730      ADMINISTRACION              NO
+ 0006 019208 FERNANDEZ LEYVA MARIANN ESTEFANY           34.586    77.491   112.077     148.730      ADMINISTRACION              NO
+ 0007 006145 PAREDES LEIVA RENZO DAVID                  36.618    67.281   103.899     148.730      ADMINISTRACION              NO
+ 0008 010721 RIOS ROJAS FREDESVINDA MAYTHE              41.713    61.155   102.868     148.730      ADMINISTRACION              NO
+ 0009 001457 FALCON SILVA XAYURI MAYLUZ ALISSON         29.485    63.177    92.662     148.730      ADMINISTRACION              NO
+ 0010 003219 SALVATIERRA AGUILAR FRANCO BRAYAN          26.434    58.092    84.526     148.730      ADMINISTRACION              NO
+ 0011 023153 GARCIA SUAREZ KEVIN SMITH                  28.478    45.870    74.348     148.730      ADMINISTRACION              NO
+ 0012 007209 DELGADO PEREZ GIAN PIER                    19.319    45.865    65.184     148.730      ADMINISTRACION              NO
+ 0013 022287 FLOREANO MIÑANO GERALDINE ESTEPHANI        37.637    27.487    65.124     148.730      ADMINISTRACION              NO
+ 0014 013131 RODRIGUEZ COLONA SERGIO ALEJANDRO          22.370    29.539    51.909     148.730      ADMINISTRACION              NO
+ 0015 022116 SICCHA REYES ADELA NICOLE                  27.459    23.423    50.882     148.730      ADMINISTRACION              NO
+ 0016 016347 AGUIRRE AURORA ISABEL MILAGRITOS           16.268    32.597    48.865     148.730      ADMINISTRACION              NO
+ 0017 009535 SANDOVAL TORRES CESAR ANDRE                17.281    30.560    47.841     148.730      ADMINISTRACION              NO
+ 0018 008065 PINILLOS DE LA CRUZ JOSSIE MARISELA        13.211    32.607    45.818     148.730      ADMINISTRACION              NO
+ 0019 017185 ATERO MEDINA YANELY                         0.995    34.634    35.629     148.730      ADMINISTRACION              NO
+ 0020 022199 GARCIA DE LA CRUZ MARY NATHALY             -6.132    40.745    34.613     148.730      ADMINISTRACION              NO
+ 0021 007772 ANTICONA RODRIGUEZ YULIANA AGUEDA           7.103    23.423    30.526     148.730      ADMINISTRACION              NO
+ 0022 018407 JAVE CAVERO LILIAN FERNANDA                 9.135    20.355    29.490     148.730      ADMINISTRACION              NO
+ 0023 021754 GUEVARA MENDEZ ARIANA JIMENA               -2.044    29.554    27.510     148.730      ADMINISTRACION              NO
+ 0024 024754 VALDEZ CARO DIARIKXA ANABEL                11.179     8.128    19.307     148.730      ADMINISTRACION              NO
+
+
+
+ 0001 002069 TIZNADO GRADOS NICOLLE ALEXANDRA           37.637    95.824   133.461     144.671      CONTABIL.y FINAN.           NO
+ 0002 023049 FRANCO GARCIA ANDREA DEL PILAR             39.675    89.713   129.388     144.671      CONTABIL.y FINAN.           NO
+ 0003 007013 POEMAPE HERNANDEZ SAMYRA ARASCELLY         46.802    76.465   123.267     144.671      CONTABIL.y FINAN.           NO
+ 0004 007852 SALDAÑA CABANILLAS ANA LUCIA DEL PILAR     46.802    66.265   113.067     144.671      CONTABIL.y FINAN.           NO
+ 0005 013855 TANTARAICO ROMERO WILSON IVAN              36.624    62.181    98.805     144.671      CONTABIL.y FINAN.           NO
+ 0006 001091 VALDIVIEZO CONDEMARIN NICOLE ANTONETTE     24.414    70.339    94.753     144.671      CONTABIL.y FINAN.           NO
+ 0007 008673 PAREDES SAUCEDO CAMILA BRIGGITTE           31.529    63.197    94.726     144.671      CONTABIL.y FINAN.           NO
+ 0008 012425 PINO ARQUEROS HILARY MERRY                 23.389    58.112    81.501     144.671      CONTABIL.y FINAN.           NO
+ 0009 002331 RAFAEL MANOSALVA GIANMARCO                 26.440    55.034    81.474     144.671      CONTABIL.y FINAN.           NO
+ 0010 020483 AZAÑEDO ALTAMIRANO MARIA FERNANDA          34.592    23.423    58.015     144.671      CONTABIL.y FINAN.           NO
+ 0011 016465 LUJAN PUPUCHE ANTONE MARISOL               27.459    23.423    50.882     144.671      CONTABIL.y FINAN.           NO
+ 0012 018986 ORBEGOSO MELENDEZ CARLOS JOAQUIN           12.198    30.575    42.773     144.671      CONTABIL.y FINAN.           NO
+ 0013 009018 ROJAS ARAUJO JENIFER NICOLE                18.312    24.459    42.771     144.671      CONTABIL.y FINAN.           NO
+ 0014 012474 ALCANTARA ROMERO YAZMIN MAEDHELING         10.166    26.486    36.652     144.671      CONTABIL.y FINAN.           NO
+ 0015 017463 RUIZ REBAZA MAYTEE OLENKA                  23.389    13.198    36.587     144.671      CONTABIL.y FINAN.           NO
+ 0016 014639 RAMOS UBILLUS DIANA MARICRUZ               10.166    22.397    32.563     144.671      CONTABIL.y FINAN.           NO
+ 0017 022316 ALCANTARA LINO JHAJAIRA JAMILET            -4.106    32.587    28.481     144.671      CONTABIL.y FINAN.           NO
+ 0018 022564 CUBAS CARRASCO DANIELA ALEXANDRA          -10.214    26.476    16.262     144.671      CONTABIL.y FINAN.           NO
+ 0019 011559 PALOMINO VASQUEZ MARIA JOSE STEFANIA       -1.043    16.266    15.223     144.671      CONTABIL.y FINAN.           NO
+
+
+
+ 0001 008295 ANAYA RUIZ VALERIA MILAGROS                44.758   117.250   162.008     131.450      ECONOMIA                    SI
+                                               UNIVERSIDAD NACIONAL DE TRUJILLO - UNT
+ DIREC.DE SIST.y COMUNIC.                  EXAMEN DE ADMISION ORDINARIO 2021- I * TRUJILLO                                 Pag.  2
+        * UNIDAD P.A.D.*                         QUINTO GRADO DE EDUCACION SECUNDARIA                                      05/12/2020
+                                         RESULTADOS POR ESCUELA ACADEMICO PROFESIONAL - AREA - D
+ ======================================================================================================================================
+ OR-  CARNET      APELLIDOS  y  NOMBRES                PTJE APT    PTJE    PUNTAJE      ULTIMO         ESCUELA               ALCANZA
+ DEN                                                    ACADEM    CONOC.    TOTAL     INGRESANTE                             VACANTE
+ ======================================================================================================================================
+ 0002 000282 CIGUEÑAS SAAVEDRA JOSE AUGUSTO             36.618   121.324   157.942     131.450      ECONOMIA                    SI
+ 0003 023636 GUERRA MACALOPU FERNANDO EDU               34.592   112.160   146.752     131.450      ECONOMIA                    SI
+ 0004 006012 KUROKAWA PURIZAGA AKIRA RAFAEL             34.586    81.560   116.146     131.450      ECONOMIA                    NO
+ 0005 017898 MANTILLA BACA EIMY ARIANA                  44.764    61.160   105.924     131.450      ECONOMIA                    NO
+ 0006 021873 CARDENAS CONTRERAS CHRISTOPHER JESUS ENR   29.497    65.239    94.736     131.450      ECONOMIA                    NO
+ 0007 008938 VASQUEZ SOLIS BENAVIDES VALERIA BELEN      19.307    55.019    74.326     131.450      ECONOMIA                    NO
+ 0008 023649 OSORIO CHIMBOR ELIEL TONY                  30.522    37.712    68.234     131.450      ECONOMIA                    NO
+  ************************************************************************************************************************************
+  Nro TOTAL DE POSTULANTES ====>                              51
